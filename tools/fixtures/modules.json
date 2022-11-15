@@ -1,0 +1,146 @@
+[
+  {
+    "model": "course.Module",
+    "pk": 1,
+    "fields": {
+      "name": "MATH1",
+      "level_id": "1"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 2,
+    "fields": {
+      "name": "PHYSIQUE1",
+      "level_id": "1"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 3,
+    "fields": {
+      "name": "SCIENCE1",
+      "level_id": "1"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 4,
+    "fields": {
+      "name": "ARABE1",
+      "level_id": "1"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 5,
+    "fields": {
+      "name": "FRANÇAIS1",
+      "level_id": "1"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 6,
+    "fields": {
+      "name": "ANGLAIS1",
+      "level_id": "1"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 7,
+    "fields": {
+      "name": "MATH2",
+      "level_id": "2"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 8,
+    "fields": {
+      "name": "PHYSIQUE2",
+      "level_id": "2"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 9,
+    "fields": {
+      "name": "SCIENCE2",
+      "level_id": "2"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 10,
+    "fields": {
+      "name": "ARABE2",
+      "level_id": "2"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 11,
+    "fields": {
+      "name": "FRANÇAIS2",
+      "level_id": "2"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 12,
+    "fields": {
+      "name": "ANGLAI2",
+      "level_id": "2"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 13,
+    "fields": {
+      "name": "MATH3",
+      "level_id": "3"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 14,
+    "fields": {
+      "name": "PHYSIQUE3",
+      "level_id": "3"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 15,
+    "fields": {
+      "name": "SCIENCE3",
+      "level_id": "3"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 16,
+    "fields": {
+      "name": "ARABE3",
+      "level_id": "3"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 17,
+    "fields": {
+      "name": "FRANÇAIS3",
+      "level_id": "3"
+    }
+  },
+  {
+    "model": "course.Module",
+    "pk": 18,
+    "fields": {
+      "name": "ANGLAIS3",
+      "level_id": "3"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "authapp.UserGroup",
+    "pk": 1,
+    "fields": {
+      "user_group": "Students"
+    }
+  },
+  {
+    "model": "authapp.UserGroup",
+    "pk": 2,
+    "fields": {
+      "user_group": "Administrators"
+    }
+  },
+    {
+    "model": "authapp.UserGroup",
+    "pk": 3,
+    "fields": {
+      "user_group": "Teachers"
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "model": "authapp.CustomUser",
+    "pk": 1,
+    "fields": {
+      "first_name": "admin1",
+      "last_name": "admin1",
+      "username": "admin1",
+      "password":"pbkdf2_sha256$320000$fMkrjJ9qN03dwyJBWHxv2p$Lf4lcGj4ckYRQnquR2I9EA7wKRfgkcG95L5aQVXLqJQ=",
+      "is_staff": true,
+      "email":"admin1@gmail.com",
+      "commune": 1,
+      "school": 1,
+      "gender": "MALE",
+      "user_group": "Administrators",
+      "phone": 5123456
+    }
+  },
+  {
+    "model": "authapp.CustomUser",
+    "pk": 2,
+    "fields": {
+      "first_name": "student1",
+      "last_name": "student1",
+      "username": "student1",
+      "password":"pbkdf2_sha256$320000$fMkrjJ9qN03dwyJBWHxv2p$Lf4lcGj4ckYRQnquR2I9EA7wKRfgkcG95L5aQVXLqJQ=",
+      "email":"student1@gmail.com",
+      "commune": 1,
+      "school": 1,
+      "gender": "MALE",
+      "user_group": "Students",
+      "phone": 12341234
+    }
+  },
+  {
+    "model": "authapp.CustomUser",
+    "pk": 3,
+    "fields": {
+      "first_name": "teacher1",
+      "last_name": "teacher1",
+      "username": "teacher1",
+      "password":"pbkdf2_sha256$320000$fMkrjJ9qN03dwyJBWHxv2p$Lf4lcGj4ckYRQnquR2I9EA7wKRfgkcG95L5aQVXLqJQ=",
+      "email":"teacher1@gmail.com",
+      "commune": 1,
+      "school": 1,
+      "gender": "MALE",
+      "user_group": "Teachers",
+      "phone": 12342121
+    }
+  },
+  {
+    "model": "authapp.CustomUser",
+    "pk": 4,
+    "fields": {
+      "first_name": "admin2",
+      "last_name": "admin2",
+      "username": "admin2",
+      "password":"pbkdf2_sha256$320000$fMkrjJ9qN03dwyJBWHxv2p$Lf4lcGj4ckYRQnquR2I9EA7wKRfgkcG95L5aQVXLqJQ=",
+      "is_staff": true,
+      "email":"admin2@gmail.com",
+      "commune": 1,
+      "school": 2,
+      "gender": "MALE",
+      "user_group": "Administrators",
+      "phone": 5123422
+    }
+  },
+  {
+    "model": "students.Student",
+    "pk": 1,
+    "fields": {
+      "first_name": "student1",
+      "last_name": "student1",
+      "email":"student1@gmail.com",
+      "username": "student1",
+      "password":"pbkdf2_sha256$320000$fMkrjJ9qN03dwyJBWHxv2p$Lf4lcGj4ckYRQnquR2I9EA7wKRfgkcG95L5aQVXLqJQ=",
+      "commune": 1,
+      "school": 1,
+      "gender": "MALE",
+      "user_id": 2,
+      "phone": 12341234
+    }
+  },
+  {
+    "model": "teachers.Teacher",
+    "pk": 1,
+    "fields": {
+      "first_name": "teacher1",
+      "last_name": "teacher1",
+      "email":"teacher1@gmail.com",
+      "username": "student1",
+      "password":"pbkdf2_sha256$320000$fMkrjJ9qN03dwyJBWHxv2p$Lf4lcGj4ckYRQnquR2I9EA7wKRfgkcG95L5aQVXLqJQ=",
+      "commune": 1,
+      "school": 1,
+      "gender": "MALE",
+      "user_id": 3,
+      "phone": 12121212
+    }
+  }
+]

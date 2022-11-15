@@ -1,0 +1,2 @@
+1- staff is throwing __str__ error when trying to display from localhost
+2- created_at and updated_at are not working correctly

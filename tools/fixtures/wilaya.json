@@ -1,0 +1,290 @@
+[{
+    "model": "tools.Wilaya",
+    "pk": "1",
+    "fields" : { "name": "Adrar "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "2",
+    "fields" : { "name": " Chlef"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "3",
+    "fields" : { "name": " Laghouat"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "4",
+    "fields" : { "name": "Oum El Bouaghi"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "5",
+    "fields" : { "name": " Batna"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "6",
+    "fields" : { "name": " Béjaïa"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "7",
+    "fields" : { "name": " Biskra "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "8",
+    "fields" : { "name": " Béchar "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "9",
+    "fields" : { "name": " Blida"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "10",
+    "fields" : { "name": " Bouira"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "11",
+    "fields" : { "name": " Tamanrasset "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "12",
+    "fields" : { "name": " Tébessa"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "13",
+    "fields" : { "name": " Tlemcen"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "14",
+    "fields" : { "name": " Tiaret"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "15",
+    "fields" : { "name": " Tizi Ouzou"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "16",
+    "fields" : { "name": "Alger"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "17",
+    "fields" : { "name": " Djelfa"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "18",
+    "fields" : { "name": " Jijel"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "19",
+    "fields" : { "name": " Sétif"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "20",
+    "fields" : { "name": " Saïda"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "21",
+    "fields" : { "name": " Skikda"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "22",
+    "fields" : { "name": " Sidi Bel Abbès"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "23",
+    "fields" : { "name": "Annaba"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "24",
+    "fields" : { "name": " Guelma"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "25",
+    "fields" : { "name": " Constantine"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "26",
+    "fields" : { "name": " Médéa"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "27",
+    "fields" : { "name": " Mostaganem"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "28",
+    "fields" : { "name": " M'Sila"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "29",
+    "fields" : { "name": " Mascara"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "30",
+    "fields" : { "name": "Ouargla "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "31",
+    "fields" : { "name": "Oran"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "32",
+    "fields" : { "name": "El Bayadh"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "33",
+    "fields" : { "name": "Illizi "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "34",
+    "fields" : { "name": " Bordj Bou Arreridj"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "35",
+    "fields" : { "name": " Boumerdès"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "36",
+    "fields" : { "name": "El Tarf"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "37",
+    "fields" : { "name": " Tindouf"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "38",
+    "fields" : { "name": " Tissemsilt"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "39",
+    "fields" : { "name": "El Oued "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "40",
+    "fields" : { "name": " Khenchela"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "41",
+    "fields" : { "name": " Souk Ahras"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "42",
+    "fields" : { "name": " Tipaza"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "43",
+    "fields" : { "name": " Mila"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "44",
+    "fields" : { "name": "Aïn Defla"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "45",
+    "fields" : { "name": " Naâma"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "46",
+    "fields" : { "name": "Aïn Témouchent"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "47",
+    "fields" : { "name": " Ghardaïa "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "48",
+    "fields" : { "name": " Relizane"
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "49",
+    "fields" : { "name": " Timimoun  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "50",
+    "fields" : { "name": " Bordj Badji Mokhtar  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "51",
+    "fields" : { "name": "Ouled Djellal  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "52",
+    "fields" : { "name": " Béni Abbès  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "53",
+    "fields" : { "name": "In Salah  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "54",
+    "fields" : { "name": "In Guezzam  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "55",
+    "fields" : { "name": " Touggourt  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "56",
+    "fields" : { "name": " Djanet  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "57",
+    "fields" : { "name": "El M'Ghair  "
+}},
+{
+    "model": "tools.Wilaya",
+    "pk": "58",
+    "fields" : { "name": "El Meniaa  "
+}}]

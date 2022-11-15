@@ -1,0 +1,18 @@
+[
+  {
+    "model": "course.Classroom",
+    "pk": 1,
+    "fields": {
+      "name": "classroom1",
+      "school": 1
+    }
+  },
+  {
+    "model": "course.Classroom",
+    "pk": 2,
+    "fields": {
+      "name": "classroom2",
+      "school": 1
+    }
+  }
+]

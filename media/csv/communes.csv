@@ -1,0 +1,1542 @@
+model,pk,name,wilaya_id
+tools.Commune,1,Timekten,1
+tools.Commune,2,Bouda,1
+tools.Commune,3,Ouled Ahmed Timmi,1
+tools.Commune,4,Adrar,1
+tools.Commune,5,Fenoughil,1
+tools.Commune,6,In Zghmir,1
+tools.Commune,7,Reggane,1
+tools.Commune,8,Sali,1
+tools.Commune,9,Sebaa,1
+tools.Commune,10,Tsabit,1
+tools.Commune,11,Tamest,1
+tools.Commune,12,Tamantit,1
+tools.Commune,13,Tit,1
+tools.Commune,14,Zaouiet Kounta,1
+tools.Commune,15,Akabli,1
+tools.Commune,16,Aoulef,1
+tools.Commune,17,Talassa,2
+tools.Commune,18,Zeboudja,2
+tools.Commune,19,El Hadjadj,2
+tools.Commune,20,Ouled Ben Abdelkader,2
+tools.Commune,21,Ain Merane,2
+tools.Commune,22,Breira,2
+tools.Commune,23,Ouled Abbes,2
+tools.Commune,24,Oued Fodda,2
+tools.Commune,25,Beni Rached,2
+tools.Commune,26,Herenfa,2
+tools.Commune,27,Tadjena,2
+tools.Commune,28,El Marsa,2
+tools.Commune,29,Chlef,2
+tools.Commune,30,Oum Drou,2
+tools.Commune,31,Sendjas,2
+tools.Commune,32,Sidi Abderrahmane,2
+tools.Commune,33,Sidi Akkacha,2
+tools.Commune,34,Tenes,2
+tools.Commune,35,Beni Bouattab,2
+tools.Commune,36,El Karimia,2
+tools.Commune,37,Harchoun,2
+tools.Commune,38,Bouzeghaia,2
+tools.Commune,39,Taougrit,2
+tools.Commune,40,Beni Haoua,2
+tools.Commune,41,Abou El Hassane,2
+tools.Commune,42,Oued Goussine,2
+tools.Commune,43,Chettia,2
+tools.Commune,44,Moussadek,2
+tools.Commune,45,Ouled Fares,2
+tools.Commune,46,Boukadir,2
+tools.Commune,47,Oued Sly,2
+tools.Commune,48,Sobha,2
+tools.Commune,49,Benairia,2
+tools.Commune,50,Labiod Medjadja,2
+tools.Commune,51,Dahra,2
+tools.Commune,52,El Beidha,3
+tools.Commune,53,Gueltat Sidi Saad,3
+tools.Commune,54,Brida,3
+tools.Commune,55,Ain Sidi Ali,3
+tools.Commune,56,Tadjemout,3
+tools.Commune,57,Hadj Mechri,3
+tools.Commune,58,Taouiala,3
+tools.Commune,59,El Ghicha,3
+tools.Commune,60,Tadjrouna,3
+tools.Commune,61,Sebgag,3
+tools.Commune,62,Sidi Bouzid,3
+tools.Commune,63,Oued Morra,3
+tools.Commune,64,Laghouat,3
+tools.Commune,65,Oued M'zi,3
+tools.Commune,66,Ksar El Hirane,3
+tools.Commune,67,El Assafia,3
+tools.Commune,68,Sidi Makhlouf,3
+tools.Commune,69,Hassi Delaa,3
+tools.Commune,70,Hassi R'mel,3
+tools.Commune,71,Ain Madhi,3
+tools.Commune,72,El Haouaita,3
+tools.Commune,73,Kheneg,3
+tools.Commune,74,Benacer Benchohra,3
+tools.Commune,75,Aflou,3
+tools.Commune,76,Fkirina,4
+tools.Commune,77,El Fedjoudj Boughrara Sa,4
+tools.Commune,78,Ain Fekroun,4
+tools.Commune,79,Rahia,4
+tools.Commune,80,Meskiana,4
+tools.Commune,81,El Belala,4
+tools.Commune,82,Behir Chergui,4
+tools.Commune,83,Ksar Sbahi,4
+tools.Commune,84,Souk Naamane,4
+tools.Commune,85,Ouled Zouai,4
+tools.Commune,86,Oum El Bouaghi,4
+tools.Commune,87,Ain Babouche,4
+tools.Commune,88,Ain Zitoun,4
+tools.Commune,89,Bir Chouhada,4
+tools.Commune,90,Ain Beida,4
+tools.Commune,91,Berriche,4
+tools.Commune,92,Zorg,4
+tools.Commune,93,Ain M'lila,4
+tools.Commune,94,Ouled Gacem,4
+tools.Commune,95,Ouled Hamla,4
+tools.Commune,96,El Amiria,4
+tools.Commune,97,Sigus,4
+tools.Commune,98,Oued Nini,4
+tools.Commune,99,Ain Diss,4
+tools.Commune,100,Dhalaa,4
+tools.Commune,101,El Djazia,4
+tools.Commune,102,Ain Kercha,4
+tools.Commune,103,El Harmilia,4
+tools.Commune,104,Hanchir Toumghani,4
+tools.Commune,105,Maafa,5
+tools.Commune,106,Gosbat,5
+tools.Commune,107,Timgad,5
+tools.Commune,108,Taxlent,5
+tools.Commune,109,Ouled Si Slimane,5
+tools.Commune,110,Lemcene,5
+tools.Commune,111,Talkhamt,5
+tools.Commune,112,Ras El Aioun,5
+tools.Commune,113,Rahbat,5
+tools.Commune,114,Ouled Sellem,5
+tools.Commune,115,Guigba,5
+tools.Commune,116,Teniet El Abed,5
+tools.Commune,117,Batna,5
+tools.Commune,118,Fesdis,5
+tools.Commune,119,Oued Chaaba,5
+tools.Commune,120,Hidoussa,5
+tools.Commune,121,Ksar Bellezma,5
+tools.Commune,122,Merouana,5
+tools.Commune,123,Oued El Ma,5
+tools.Commune,124,Lazrou,5
+tools.Commune,125,Seriana,5
+tools.Commune,126,Zanet El Beida,5
+tools.Commune,127,Menaa,5
+tools.Commune,128,Tigharghar,5
+tools.Commune,129,Ain Yagout,5
+tools.Commune,130,Boumia,5
+tools.Commune,131,Djerma,5
+tools.Commune,132,El Madher,5
+tools.Commune,133,Ouyoun El Assafir,5
+tools.Commune,134,Tazoult,5
+tools.Commune,135,Boumagueur,5
+tools.Commune,136,N Gaous,5
+tools.Commune,137,Sefiane,5
+tools.Commune,138,Arris,5
+tools.Commune,139,Tighanimine,5
+tools.Commune,140,Ain Djasser,5
+tools.Commune,141,El Hassi,5
+tools.Commune,142,Seggana,5
+tools.Commune,143,Tilatou,5
+tools.Commune,144,Foum Toub,5
+tools.Commune,145,Ichemoul,5
+tools.Commune,146,Inoughissen,5
+tools.Commune,147,Bouzina,5
+tools.Commune,148,Larbaa,5
+tools.Commune,149,Boulhilat,5
+tools.Commune,150,Chemora,5
+tools.Commune,151,Barika,5
+tools.Commune,152,Bitam,5
+tools.Commune,153,M Doukal,5
+tools.Commune,154,Azil Abedelkader,5
+tools.Commune,155,Djezzar,5
+tools.Commune,156,Ouled Ammar,5
+tools.Commune,157,Ghassira,5
+tools.Commune,158,Kimmel,5
+tools.Commune,159,T Kout,5
+tools.Commune,160,Ain Touta,5
+tools.Commune,161,Beni Foudhala El Hakania,5
+tools.Commune,162,Ouled Fadel,5
+tools.Commune,163,Ouled Aouf,5
+tools.Commune,164,Chir,5
+tools.Commune,165,Oued Taga,5
+tools.Commune,166,Sidi Ayad,6
+tools.Commune,167,Barbacha,6
+tools.Commune,168,Leflaye,6
+tools.Commune,169,Kendira,6
+tools.Commune,170,Sidi-Aich,6
+tools.Commune,171,Tifra,6
+tools.Commune,172,Tinebdar,6
+tools.Commune,173,El Kseur,6
+tools.Commune,174,Fenaia Il Maten,6
+tools.Commune,175,Toudja,6
+tools.Commune,176,Dra El Caid,6
+tools.Commune,177,Kherrata,6
+tools.Commune,178,Bejaia,6
+tools.Commune,179,Oued Ghir,6
+tools.Commune,180,Benimaouche,6
+tools.Commune,181,Beni Djellil,6
+tools.Commune,182,Feraoun,6
+tools.Commune,183,Smaoun,6
+tools.Commune,184,Timezrit,6
+tools.Commune,185,Melbou,6
+tools.Commune,186,Souk El Tenine,6
+tools.Commune,187,Tamridjet,6
+tools.Commune,188,Boukhelifa,6
+tools.Commune,189,Tala Hamza,6
+tools.Commune,190,Tichy,6
+tools.Commune,191,Ait R'zine,6
+tools.Commune,192,Ighil-Ali,6
+tools.Commune,193,Ait-Smail,6
+tools.Commune,194,Darguina,6
+tools.Commune,195,Taskriout,6
+tools.Commune,196,Aokas,6
+tools.Commune,197,Tizi-N'berber,6
+tools.Commune,198,Adekar,6
+tools.Commune,199,Beni K'sila,6
+tools.Commune,200,Taourit Ighil,6
+tools.Commune,201,Akbou,6
+tools.Commune,202,Chellata,6
+tools.Commune,203,Ighram,6
+tools.Commune,204,Tamokra,6
+tools.Commune,205,Amalou,6
+tools.Commune,206,Bouhamza,6
+tools.Commune,207,M'cisna,6
+tools.Commune,208,Seddouk,6
+tools.Commune,209,Beni-Mallikeche,6
+tools.Commune,210,Boudjellil,6
+tools.Commune,211,Tazmalt,6
+tools.Commune,212,Akfadou,6
+tools.Commune,213,Chemini,6
+tools.Commune,214,Souk Oufella,6
+tools.Commune,215,Tibane,6
+tools.Commune,216,Ouzellaguen,6
+tools.Commune,217,Amizour,6
+tools.Commune,218,El Feidh,7
+tools.Commune,219,Lichana,7
+tools.Commune,220,Bouchakroun,7
+tools.Commune,221,Mekhadma,7
+tools.Commune,222,Djemorah,7
+tools.Commune,223,Branis,7
+tools.Commune,224,El Outaya,7
+tools.Commune,225,El Kantara,7
+tools.Commune,226,Khenguet Sidi Nadji,7
+tools.Commune,227,Ain Zaatout,7
+tools.Commune,228,Zeribet El Oued,7
+tools.Commune,229,Meziraa,7
+tools.Commune,230,Biskra,7
+tools.Commune,231,El Hadjab,7
+tools.Commune,232,M'lili,7
+tools.Commune,233,Foughala,7
+tools.Commune,234,El Ghrous,7
+tools.Commune,235,Bordj Ben Azzouz,7
+tools.Commune,236,Ourlal,7
+tools.Commune,237,Oumache,7
+tools.Commune,238,Ain Naga,7
+tools.Commune,239,Chetma,7
+tools.Commune,240,El Haouch,7
+tools.Commune,241,Sidi Okba,7
+tools.Commune,242,M'chouneche,7
+tools.Commune,243,Lioua,7
+tools.Commune,244,Tolga,7
+tools.Commune,245,Bechar,8
+tools.Commune,246,Boukais,8
+tools.Commune,247,Lahmar,8
+tools.Commune,248,Mogheul,8
+tools.Commune,249,Meridja,8
+tools.Commune,250,Taghit,8
+tools.Commune,251,Abadla,8
+tools.Commune,252,Erg-Ferradj,8
+tools.Commune,253,Machraa-Houari-Boumediene,8
+tools.Commune,254,Beni-Ounif,8
+tools.Commune,255,Tabelbala,8
+tools.Commune,256,Kenadsa,8
+tools.Commune,257,Beni Mered,9
+tools.Commune,258,Ouled Slama,9
+tools.Commune,259,Mouzaia,9
+tools.Commune,260,Hammam Elouane,9
+tools.Commune,261,Bougara,9
+tools.Commune,262,Souhane,9
+tools.Commune,263,Larbaa,9
+tools.Commune,264,Soumaa,9
+tools.Commune,265,Guerrouaou,9
+tools.Commune,266,Boufarik,9
+tools.Commune,267,Meftah,9
+tools.Commune,268,Chiffa,9
+tools.Commune,269,Ain Romana,9
+tools.Commune,270,Oued Djer,9
+tools.Commune,271,El-Affroun,9
+tools.Commune,272,Ouled Yaich,9
+tools.Commune,273,Chrea,9
+tools.Commune,274,Djebabra,9
+tools.Commune,275,Oued El Alleug,9
+tools.Commune,276,Benkhelil,9
+tools.Commune,277,Beni-Tamou,9
+tools.Commune,278,Chebli,9
+tools.Commune,279,Bouinan,9
+tools.Commune,280,Bouarfa,9
+tools.Commune,281,Blida,9
+tools.Commune,282,Ain Laloui,10
+tools.Commune,283,Hadjera Zerga,10
+tools.Commune,284,Mezdour,10
+tools.Commune,285,Taguedite,10
+tools.Commune,286,Ridane,10
+tools.Commune,287,Maamora,10
+tools.Commune,288,El-Hakimia,10
+tools.Commune,289,Ahl El Ksar,10
+tools.Commune,290,Dirah,10
+tools.Commune,291,Dechmia,10
+tools.Commune,292,Bechloul,10
+tools.Commune,293,Ath Mansour,10
+tools.Commune,294,Saharidj,10
+tools.Commune,295,El Adjiba,10
+tools.Commune,296,El Asnam,10
+tools.Commune,297,M Chedallah,10
+tools.Commune,298,Bordj Okhriss,10
+tools.Commune,299,Sour El Ghozlane,10
+tools.Commune,300,Hanif,10
+tools.Commune,301,Chorfa,10
+tools.Commune,302,Ouled Rached,10
+tools.Commune,303,Ain El Hadjar,10
+tools.Commune,304,Aghbalou,10
+tools.Commune,305,Raouraoua,10
+tools.Commune,306,El Khabouzia,10
+tools.Commune,307,Bir Ghbalou,10
+tools.Commune,308,Bouira,10
+tools.Commune,309,Ain Turk,10
+tools.Commune,310,Ait Laaziz,10
+tools.Commune,311,Ain-Bessem,10
+tools.Commune,312,El-Mokrani,10
+tools.Commune,313,Souk El Khemis,10
+tools.Commune,314,Aomar,10
+tools.Commune,315,Djebahia,10
+tools.Commune,316,El Hachimia,10
+tools.Commune,317,Haizer,10
+tools.Commune,318,Taghzout,10
+tools.Commune,319,Bouderbala,10
+tools.Commune,320,Boukram,10
+tools.Commune,321,Guerrouma,10
+tools.Commune,322,Lakhdaria,10
+tools.Commune,323,Maala,10
+tools.Commune,324,Kadiria,10
+tools.Commune,325,Z'barbar (El Isseri ),10
+tools.Commune,326,Oued El Berdi,10
+tools.Commune,327,Tazrouk,11
+tools.Commune,328,Abelsa,11
+tools.Commune,329,Tamanrasset,11
+tools.Commune,330,Ain Amguel,11
+tools.Commune,331,Idles,11
+tools.Commune,332,El-Houidjbet,12
+tools.Commune,333,El-Aouinet,12
+tools.Commune,334,Ferkane,12
+tools.Commune,335,Negrine,12
+tools.Commune,336,Bir Mokkadem,12
+tools.Commune,337,Bir Dheheb,12
+tools.Commune,338,Saf Saf El Ouesra,12
+tools.Commune,339,Guorriguer,12
+tools.Commune,340,Bekkaria,12
+tools.Commune,341,Boulhaf Dyr,12
+tools.Commune,342,Oum Ali,12
+tools.Commune,343,Boukhadra,12
+tools.Commune,344,El Malabiod,12
+tools.Commune,345,Ouenza,12
+tools.Commune,346,El Meridj,12
+tools.Commune,347,Ain Zerga,12
+tools.Commune,348,Stah Guentis,12
+tools.Commune,349,El Ogla,12
+tools.Commune,350,El Mezeraa,12
+tools.Commune,351,Bedjene,12
+tools.Commune,352,Morsott,12
+tools.Commune,353,Telidjen,12
+tools.Commune,354,Cheria,12
+tools.Commune,355,El Ogla El Malha,12
+tools.Commune,356,Bir-El-Ater,12
+tools.Commune,357,Tebessa,12
+tools.Commune,358,Hammamet,12
+tools.Commune,359,El Kouif,12
+tools.Commune,360,Bab El Assa,13
+tools.Commune,361,Terny Beni Hediel,13
+tools.Commune,362,Mansourah,13
+tools.Commune,363,Beni Mester,13
+tools.Commune,364,Ain Ghoraba,13
+tools.Commune,365,Chetouane,13
+tools.Commune,366,Amieur,13
+tools.Commune,367,Ain Fezza,13
+tools.Commune,368,Honnaine,13
+tools.Commune,369,Beni Khellad,13
+tools.Commune,370,Sidi Djillali,13
+tools.Commune,371,Bouihi,13
+tools.Commune,372,Nedroma,13
+tools.Commune,373,M'sirda Fouaga,13
+tools.Commune,374,Marsa Ben M'hidi,13
+tools.Commune,375,Sidi Medjahed,13
+tools.Commune,376,Beni Boussaid,13
+tools.Commune,377,Sebdou,13
+tools.Commune,378,El Gor,13
+tools.Commune,379,El Aricha,13
+tools.Commune,380,Bouhlou,13
+tools.Commune,381,Maghnia,13
+tools.Commune,382,Hammam Boughrara,13
+tools.Commune,383,Zenata,13
+tools.Commune,384,Ouled Riyah,13
+tools.Commune,385,Hennaya,13
+tools.Commune,386,Sidi Abdelli,13
+tools.Commune,387,Souk Tleta,13
+tools.Commune,388,Bensekrane,13
+tools.Commune,389,Fellaoucene,13
+tools.Commune,390,Ain Kebira,13
+tools.Commune,391,Ain Fetah,13
+tools.Commune,392,Tlemcen,13
+tools.Commune,393,Ain Nehala,13
+tools.Commune,394,Ain Tellout,13
+tools.Commune,395,Ain Youcef,13
+tools.Commune,396,Beni Ouarsous,13
+tools.Commune,397,El Fehoul,13
+tools.Commune,398,Remchi,13
+tools.Commune,399,Sebbaa Chioukh,13
+tools.Commune,400,Souani,13
+tools.Commune,401,Sabra,13
+tools.Commune,402,Dar Yaghmoracen,13
+tools.Commune,403,Ghazaouet,13
+tools.Commune,404,Souahlia,13
+tools.Commune,405,Tianet,13
+tools.Commune,406,Beni Smiel,13
+tools.Commune,407,Oued Lakhdar,13
+tools.Commune,408,Ouled Mimoun,13
+tools.Commune,409,Beni Bahdel,13
+tools.Commune,410,Beni Snous,13
+tools.Commune,411,Azail,13
+tools.Commune,412,Djebala,13
+tools.Commune,413,Mahdia,14
+tools.Commune,414,Ain Dzarit,14
+tools.Commune,415,Sebaine,14
+tools.Commune,416,Faidja,14
+tools.Commune,417,Si Abdelghani,14
+tools.Commune,418,Sougueur,14
+tools.Commune,419,Tousnina,14
+tools.Commune,420,Meghila,14
+tools.Commune,421,Sebt,14
+tools.Commune,422,Sidi Hosni,14
+tools.Commune,423,Ain El Hadid,14
+tools.Commune,424,Frenda,14
+tools.Commune,425,Takhemaret,14
+tools.Commune,426,Ain Kermes,14
+tools.Commune,427,Djebilet Rosfa,14
+tools.Commune,428,Madna,14
+tools.Commune,429,Medrissa,14
+tools.Commune,430,Sidi Abderrahmane,14
+tools.Commune,431,Ksar Chellala,14
+tools.Commune,432,Guertoufa,14
+tools.Commune,433,Serghine,14
+tools.Commune,434,Zmalet El Emir Abdelkade,14
+tools.Commune,435,Oued Lilli,14
+tools.Commune,436,Sidi Ali Mellal,14
+tools.Commune,437,Djillali Ben Amar,14
+tools.Commune,438,Mechraa Safa,14
+tools.Commune,439,Tagdempt,14
+tools.Commune,440,Bougara,14
+tools.Commune,441,Hamadia,14
+tools.Commune,442,Rechaiga,14
+tools.Commune,443,Tidda,14
+tools.Commune,444,Nadorah,14
+tools.Commune,445,Tiaret,14
+tools.Commune,446,Medroussa,14
+tools.Commune,447,Mellakou,14
+tools.Commune,448,Sidi Bakhti,14
+tools.Commune,449,Ain Deheb,14
+tools.Commune,450,Chehaima,14
+tools.Commune,451,Naima,14
+tools.Commune,452,Ain Bouchekif,14
+tools.Commune,453,Dahmouni,14
+tools.Commune,454,Rahouia,14
+tools.Commune,455,Mizrana,15
+tools.Commune,456,Idjeur,15
+tools.Commune,457,Beni-Douala,15
+tools.Commune,458,Beni-Zikki,15
+tools.Commune,459,Illoula Oumalou,15
+tools.Commune,460,Agouni-Gueghrane,15
+tools.Commune,461,Ait Bouaddou,15
+tools.Commune,462,Ouadhias,15
+tools.Commune,463,Tizi N'tleta,15
+tools.Commune,464,Aghribs,15
+tools.Commune,465,Ait-Chafaa,15
+tools.Commune,466,Akerrou,15
+tools.Commune,467,Azeffoun,15
+tools.Commune,468,Iflissen,15
+tools.Commune,469,Tigzirt,15
+tools.Commune,470,Assi-Youcef,15
+tools.Commune,471,Boghni,15
+tools.Commune,472,Bounouh,15
+tools.Commune,473,Mechtras,15
+tools.Commune,474,Draa-Ben-Khedda,15
+tools.Commune,475,Sidi Namane,15
+tools.Commune,476,Tadmait,15
+tools.Commune,477,Tirmitine,15
+tools.Commune,478,Ait Boumahdi,15
+tools.Commune,479,Ait-Toudert,15
+tools.Commune,480,Beni-Aissi,15
+tools.Commune,481,Ouacif,15
+tools.Commune,482,Ait Khellili,15
+tools.Commune,483,Mekla,15
+tools.Commune,484,Souama,15
+tools.Commune,485,Beni-Yenni,15
+tools.Commune,486,Iboudrarene,15
+tools.Commune,487,Tizi-Ouzou,15
+tools.Commune,488,Abi-Youcef,15
+tools.Commune,489,Ain-El-Hammam,15
+tools.Commune,490,Ait-Yahia,15
+tools.Commune,491,Akbil,15
+tools.Commune,492,Boudjima,15
+tools.Commune,493,Makouda,15
+tools.Commune,494,Ain-Zaouia,15
+tools.Commune,495,Ait Yahia Moussa,15
+tools.Commune,496,Draa-El-Mizan,15
+tools.Commune,497,Frikat,15
+tools.Commune,498,M'kira,15
+tools.Commune,499,Tizi-Gheniff,15
+tools.Commune,500,Yatafene,15
+tools.Commune,501,Illilten,15
+tools.Commune,502,Imsouhal,15
+tools.Commune,503,Azazga,15
+tools.Commune,504,Freha,15
+tools.Commune,505,Ifigha,15
+tools.Commune,506,Yakourene,15
+tools.Commune,507,Zekri,15
+tools.Commune,508,Ait Aggouacha,15
+tools.Commune,509,Irdjen,15
+tools.Commune,510,Larbaa Nath Irathen,15
+tools.Commune,511,Ait-Oumalou,15
+tools.Commune,512,Tizi-Rached,15
+tools.Commune,513,Ait-Aissa-Mimoun,15
+tools.Commune,514,Ouaguenoun,15
+tools.Commune,515,Timizart,15
+tools.Commune,516,Maatkas,15
+tools.Commune,517,Souk-El-Tenine,15
+tools.Commune,518,Ait-Mahmoud,15
+tools.Commune,519,Beni Zmenzer,15
+tools.Commune,520,Iferhounene,15
+tools.Commune,521,Bouzeguene,15
+tools.Commune,522,Hussein Dey,16
+tools.Commune,523,Les Eucalyptus,16
+tools.Commune,524,Sidi Moussa,16
+tools.Commune,525,Kouba,16
+tools.Commune,526,Mohamed Belouzdad,16
+tools.Commune,527,Ain Taya,16
+tools.Commune,528,Bab Ezzouar,16
+tools.Commune,529,Bordj El Kiffan,16
+tools.Commune,530,Dar El Beida,16
+tools.Commune,531,El Marsa,16
+tools.Commune,532,Mohammadia,16
+tools.Commune,533,Bir Touta,16
+tools.Commune,534,Ouled Chebel,16
+tools.Commune,535,Tessala El Merdja,16
+tools.Commune,536,Herraoua,16
+tools.Commune,537,Reghaia,16
+tools.Commune,538,Rouiba,16
+tools.Commune,539,Maalma,16
+tools.Commune,540,Rahmania,16
+tools.Commune,541,Souidania,16
+tools.Commune,542,Staoueli,16
+tools.Commune,543,Zeralda,16
+tools.Commune,544,Baba Hassen,16
+tools.Commune,545,Douira,16
+tools.Commune,546,Draria,16
+tools.Commune,547,El Achour,16
+tools.Commune,548,Khraissia,16
+tools.Commune,549,Ain Benian,16
+tools.Commune,550,Cheraga,16
+tools.Commune,551,Dely Ibrahim,16
+tools.Commune,552,Hammamet,16
+tools.Commune,553,Ouled Fayet,16
+tools.Commune,554,Alger Centre,16
+tools.Commune,555,El Madania,16
+tools.Commune,556,El Mouradia,16
+tools.Commune,557,Sidi M'hamed,16
+tools.Commune,558,Sehaoula,16
+tools.Commune,559,Bologhine Ibnou Ziri,16
+tools.Commune,560,Casbah,16
+tools.Commune,561,Oued Koriche,16
+tools.Commune,562,Rais Hamidou,16
+tools.Commune,563,Bir Mourad Rais,16
+tools.Commune,564,Birkhadem,16
+tools.Commune,565,Djasr Kasentina,16
+tools.Commune,566,Hydra,16
+tools.Commune,567,El Magharia,16
+tools.Commune,568,Ben Aknoun,16
+tools.Commune,569,Beni Messous,16
+tools.Commune,570,Bouzareah,16
+tools.Commune,571,El Biar,16
+tools.Commune,572,Bachedjerah,16
+tools.Commune,573,Bourouba,16
+tools.Commune,574,El Harrach,16
+tools.Commune,575,Oued Smar,16
+tools.Commune,576,Baraki,16
+tools.Commune,577,Bordj El Bahri,16
+tools.Commune,578,Bab El Oued,16
+tools.Commune,579,Hassi El Euch,17
+tools.Commune,580,Ain El Ibel,17
+tools.Commune,581,El Guedid,17
+tools.Commune,582,Charef,17
+tools.Commune,583,Benyagoub,17
+tools.Commune,584,Sidi Baizid,17
+tools.Commune,585,M'liliha,17
+tools.Commune,586,Dar Chioukh,17
+tools.Commune,587,Taadmit,17
+tools.Commune,588,Had Sahary,17
+tools.Commune,589,Bouira Lahdab,17
+tools.Commune,590,Ain Fekka,17
+tools.Commune,591,Sidi Laadjel,17
+tools.Commune,592,Hassi Fedoul,17
+tools.Commune,593,El Khemis,17
+tools.Commune,594,Selmana,17
+tools.Commune,595,Sed Rahal,17
+tools.Commune,596,Messaad,17
+tools.Commune,597,Guettara,17
+tools.Commune,598,Deldoul,17
+tools.Commune,599,Zaccar,17
+tools.Commune,600,Douis,17
+tools.Commune,601,El Idrissia,17
+tools.Commune,602,Ain Chouhada,17
+tools.Commune,603,Djelfa,17
+tools.Commune,604,Birine,17
+tools.Commune,605,Oum Laadham,17
+tools.Commune,606,Faidh El Botma,17
+tools.Commune,607,Amourah,17
+tools.Commune,608,Zaafrane,17
+tools.Commune,609,Guernini,17
+tools.Commune,610,Ain Oussera,17
+tools.Commune,611,Benhar,17
+tools.Commune,612,Ain Maabed,17
+tools.Commune,613,Hassi Bahbah,17
+tools.Commune,614,Moudjebara,17
+tools.Commune,615,Jijel,18
+tools.Commune,616,El Aouana,18
+tools.Commune,617,Selma Benziada,18
+tools.Commune,618,Erraguene Souissi,18
+tools.Commune,619,Boussif Ouled Askeur,18
+tools.Commune,620,Ziama Mansouriah,18
+tools.Commune,621,Chahna,18
+tools.Commune,622,Emir Abdelkader,18
+tools.Commune,623,Oudjana,18
+tools.Commune,624,Taher,18
+tools.Commune,625,Chekfa,18
+tools.Commune,626,El Kennar Nouchfi,18
+tools.Commune,627,Sidi Abdelaziz,18
+tools.Commune,628,El Milia,18
+tools.Commune,629,Ouled Yahia Khadrouch,18
+tools.Commune,630,Ouled Rabah,18
+tools.Commune,631,Sidi Marouf,18
+tools.Commune,632,Ghebala,18
+tools.Commune,633,Settara,18
+tools.Commune,634,Bouraoui Belhadef,18
+tools.Commune,635,El Ancer,18
+tools.Commune,636,Khiri Oued Adjoul,18
+tools.Commune,637,Djimla,18
+tools.Commune,638,Kaous,18
+tools.Commune,639,Texenna,18
+tools.Commune,640,Bordj T'har,18
+tools.Commune,641,Boudria Beniyadjis,18
+tools.Commune,642,Djemaa Beni Habibi,18
+tools.Commune,643,Rosfa,19
+tools.Commune,644,Oued El Bared,19
+tools.Commune,645,Tizi N'bechar,19
+tools.Commune,646,Mezloug,19
+tools.Commune,647,Guellal,19
+tools.Commune,648,Kasr El Abtal,19
+tools.Commune,649,Ouled Si Ahmed,19
+tools.Commune,650,Ait Naoual Mezada,19
+tools.Commune,651,Ait-Tizi,19
+tools.Commune,652,Bouandas,19
+tools.Commune,653,Bousselam,19
+tools.Commune,654,Hamam Soukhna,19
+tools.Commune,655,Taya,19
+tools.Commune,656,Tella,19
+tools.Commune,657,Ain Oulmene,19
+tools.Commune,658,Boutaleb,19
+tools.Commune,659,Hamma,19
+tools.Commune,660,Ouled Tebben,19
+tools.Commune,661,Amoucha,19
+tools.Commune,662,Salah Bey,19
+tools.Commune,663,Ain Azel,19
+tools.Commune,664,Ain Lahdjar,19
+tools.Commune,665,Beidha Bordj,19
+tools.Commune,666,Bir Haddada,19
+tools.Commune,667,Guenzet,19
+tools.Commune,668,Harbil,19
+tools.Commune,669,Ain-Roua,19
+tools.Commune,670,Beni Oussine,19
+tools.Commune,671,El Ouricia,19
+tools.Commune,672,Bougaa,19
+tools.Commune,673,Draa-Kebila,19
+tools.Commune,674,Hammam Guergour,19
+tools.Commune,675,Setif,19
+tools.Commune,676,Ain El Kebira,19
+tools.Commune,677,Dehamcha,19
+tools.Commune,678,Ouled Addouane,19
+tools.Commune,679,Ain-Sebt,19
+tools.Commune,680,Beni-Aziz,19
+tools.Commune,681,Maaouia,19
+tools.Commune,682,Bellaa,19
+tools.Commune,683,Bir-El-Arch,19
+tools.Commune,684,El-Ouldja,19
+tools.Commune,685,Tachouda,19
+tools.Commune,686,Tala-Ifacene,19
+tools.Commune,687,Serdj-El-Ghoul,19
+tools.Commune,688,Guidjel,19
+tools.Commune,689,Ouled Sabor,19
+tools.Commune,690,Bazer-Sakra,19
+tools.Commune,691,El Eulma,19
+tools.Commune,692,Guelta Zerka,19
+tools.Commune,693,Beni Fouda,19
+tools.Commune,694,Djemila,19
+tools.Commune,695,Ain-Legradj,19
+tools.Commune,696,Beni Chebana,19
+tools.Commune,697,Beni Ourtilane,19
+tools.Commune,698,Beni-Mouhli,19
+tools.Commune,699,Ain Abessa,19
+tools.Commune,700,Ain Arnat,19
+tools.Commune,701,Babor,19
+tools.Commune,702,Maouaklane,19
+tools.Commune,703,Saida,20
+tools.Commune,704,Tircine,20
+tools.Commune,705,Ouled Brahim,20
+tools.Commune,706,Ain Soltane,20
+tools.Commune,707,Maamora,20
+tools.Commune,708,El Hassasna,20
+tools.Commune,709,Ain Sekhouna,20
+tools.Commune,710,Sidi Boubekeur,20
+tools.Commune,711,Ouled Khaled,20
+tools.Commune,712,Hounet,20
+tools.Commune,713,Youb,20
+tools.Commune,714,Doui Thabet,20
+tools.Commune,715,Sidi Ahmed,20
+tools.Commune,716,Moulay Larbi,20
+tools.Commune,717,Ain El Hadjar,20
+tools.Commune,718,Sidi Amar,20
+tools.Commune,719,Ain Bouziane,21
+tools.Commune,720,Salah Bouchaour,21
+tools.Commune,721,El Hadaiek,21
+tools.Commune,722,Zerdezas,21
+tools.Commune,723,Ouled Habbaba,21
+tools.Commune,724,Beni Oulbane,21
+tools.Commune,725,Sidi Mezghiche,21
+tools.Commune,726,Beni Bechir,21
+tools.Commune,727,Ramdane Djamel,21
+tools.Commune,728,Bin El Ouiden,21
+tools.Commune,729,Emjez Edchich,21
+tools.Commune,730,Tamalous,21
+tools.Commune,731,Ain Kechra,21
+tools.Commune,732,Ouldja Boulbalout,21
+tools.Commune,733,Oum Toub,21
+tools.Commune,734,El Ghedir,21
+tools.Commune,735,Kerkara,21
+tools.Commune,736,El Arrouch,21
+tools.Commune,737,Zitouna,21
+tools.Commune,738,Ouled Attia,21
+tools.Commune,739,Oued Zhour,21
+tools.Commune,740,Collo,21
+tools.Commune,741,Cheraia,21
+tools.Commune,742,Beni Zid,21
+tools.Commune,743,Khenag Maoune,21
+tools.Commune,744,El Marsa,21
+tools.Commune,745,Ben Azzouz,21
+tools.Commune,746,Bekkouche Lakhdar,21
+tools.Commune,747,Es Sebt,21
+tools.Commune,748,Ain Charchar,21
+tools.Commune,749,Azzaba,21
+tools.Commune,750,Bouchetata,21
+tools.Commune,751,Filfila,21
+tools.Commune,752,Hammadi Krouma,21
+tools.Commune,753,Skikda,21
+tools.Commune,754,Ain Zouit,21
+tools.Commune,755,Djendel Saadi Mohamed,21
+tools.Commune,756,Kanoua,21
+tools.Commune,757,Sidi Ali Benyoub,22
+tools.Commune,758,Moulay Slissen,22
+tools.Commune,759,El Hacaiba,22
+tools.Commune,760,Ain Tindamine,22
+tools.Commune,761,Tenira,22
+tools.Commune,762,Oued Sefioun,22
+tools.Commune,763,Hassi Dahou,22
+tools.Commune,764,Oued Taourira,22
+tools.Commune,765,Benachiba Chelia,22
+tools.Commune,766,Sidi Yacoub,22
+tools.Commune,767,Sidi Lahcene,22
+tools.Commune,768,Sidi Khaled,22
+tools.Commune,769,Tabia,22
+tools.Commune,770,Sidi Brahim,22
+tools.Commune,771,Amarnas,22
+tools.Commune,772,Boukhanefis,22
+tools.Commune,773,Hassi Zahana,22
+tools.Commune,774,Chetouane Belaila,22
+tools.Commune,775,Ben Badis,22
+tools.Commune,776,Bedrabine El Mokrani,22
+tools.Commune,777,Sfisef,22
+tools.Commune,778,M'cid,22
+tools.Commune,779,Boudjebaa El Bordj,22
+tools.Commune,780,Ain- Adden,22
+tools.Commune,781,Sidi Hamadouche,22
+tools.Commune,782,Sidi Chaib,22
+tools.Commune,783,Makedra,22
+tools.Commune,784,Ain El Berd,22
+tools.Commune,785,Redjem Demouche,22
+tools.Commune,786,Ras El Ma,22
+tools.Commune,787,Oued Sebaa,22
+tools.Commune,788,Marhoum,22
+tools.Commune,789,Sidi Bel-Abbes,22
+tools.Commune,790,Ain Thrid,22
+tools.Commune,791,Sehala Thaoura,22
+tools.Commune,792,Tessala,22
+tools.Commune,793,Belarbi,22
+tools.Commune,794,Mostefa Ben Brahim,22
+tools.Commune,795,Tilmouni,22
+tools.Commune,796,Zerouala,22
+tools.Commune,797,Dhaya,22
+tools.Commune,798,Mezaourou,22
+tools.Commune,799,Teghalimet,22
+tools.Commune,800,Telagh,22
+tools.Commune,801,Ain Kada,22
+tools.Commune,802,Lamtar,22
+tools.Commune,803,Sidi Ali Boussidi,22
+tools.Commune,804,Sidi Dahou Zairs,22
+tools.Commune,805,Bir El Hammam,22
+tools.Commune,806,Merine,22
+tools.Commune,807,Tefessour,22
+tools.Commune,808,Taoudmout,22
+tools.Commune,809,Annaba,23
+tools.Commune,810,Seraidi,23
+tools.Commune,811,Berrahal,23
+tools.Commune,812,Oued El Aneb,23
+tools.Commune,813,El Hadjar,23
+tools.Commune,814,Sidi Amar,23
+tools.Commune,815,El Bouni,23
+tools.Commune,816,Ain El Berda,23
+tools.Commune,817,Cheurfa,23
+tools.Commune,818,El Eulma,23
+tools.Commune,819,Treat,23
+tools.Commune,820,Chetaibi,23
+tools.Commune,821,Nechmaya,24
+tools.Commune,822,Bou Hamdane,24
+tools.Commune,823,Hammam Debagh,24
+tools.Commune,824,Roknia,24
+tools.Commune,825,Dahouara,24
+tools.Commune,826,Hammam N'bail,24
+tools.Commune,827,Guelma,24
+tools.Commune,828,Boumahra Ahmed,24
+tools.Commune,829,Ain Ben Beida,24
+tools.Commune,830,Bouchegouf,24
+tools.Commune,831,Medjez Sfa,24
+tools.Commune,832,Oued Ferragha,24
+tools.Commune,833,Bouati Mahmoud,24
+tools.Commune,834,El Fedjoudj,24
+tools.Commune,835,Heliopolis,24
+tools.Commune,836,Medjez Amar,24
+tools.Commune,837,Houari Boumedienne,24
+tools.Commune,838,Ras El Agba,24
+tools.Commune,839,Sellaoua Announa,24
+tools.Commune,840,Djeballah Khemissi,24
+tools.Commune,841,Bordj Sabath,24
+tools.Commune,842,Oued Zenati,24
+tools.Commune,843,Ain Regada,24
+tools.Commune,844,Ain Larbi,24
+tools.Commune,845,Ain Makhlouf,24
+tools.Commune,846,Tamlouka,24
+tools.Commune,847,Ain Sandel,24
+tools.Commune,848,Bou Hachana,24
+tools.Commune,849,Khezaras,24
+tools.Commune,850,Belkheir,24
+tools.Commune,851,Beni Mezline,24
+tools.Commune,852,Guelaat Bou Sbaa,24
+tools.Commune,853,Oued Cheham,24
+tools.Commune,854,Bendjarah,24
+tools.Commune,855,Didouche Mourad,25
+tools.Commune,856,Hamma Bouziane,25
+tools.Commune,857,Beni Hamidane,25
+tools.Commune,858,Zighoud Youcef,25
+tools.Commune,859,Ain Smara,25
+tools.Commune,860,El Khroub,25
+tools.Commune,861,Ouled Rahmoun,25
+tools.Commune,862,Ain Abid,25
+tools.Commune,863,Ben Badis,25
+tools.Commune,864,Ibn Ziad,25
+tools.Commune,865,Messaoud Boudjeriou,25
+tools.Commune,866,Constantine,25
+tools.Commune,867,Ouled Hellal,26
+tools.Commune,868,Souagui,26
+tools.Commune,869,Ksar El Boukhari,26
+tools.Commune,870,M'fatha,26
+tools.Commune,871,Saneg,26
+tools.Commune,872,El Azizia,26
+tools.Commune,873,Maghraoua,26
+tools.Commune,874,Mihoub,26
+tools.Commune,875,Bouaiche,26
+tools.Commune,876,Boughzoul,26
+tools.Commune,877,Chabounia,26
+tools.Commune,878,Hannacha,26
+tools.Commune,879,Ouamri,26
+tools.Commune,880,Oued Harbil,26
+tools.Commune,881,Beni Slimane,26
+tools.Commune,882,Bouaichoune,26
+tools.Commune,883,Ouled Bouachra,26
+tools.Commune,884,Si Mahdjoub,26
+tools.Commune,885,Bouskene,26
+tools.Commune,886,Sidi Rabie,26
+tools.Commune,887,Berrouaghia,26
+tools.Commune,888,Ouled Deid,26
+tools.Commune,889,Rebaia,26
+tools.Commune,890,Medjebar,26
+tools.Commune,891,Tletat Ed Douair,26
+tools.Commune,892,Zoubiria,26
+tools.Commune,893,Aissaouia,26
+tools.Commune,894,El Haoudane,26
+tools.Commune,895,Mezerana,26
+tools.Commune,896,Tablat,26
+tools.Commune,897,Boghar,26
+tools.Commune,898,Seghouane,26
+tools.Commune,899,Draa Esmar,26
+tools.Commune,900,Medea,26
+tools.Commune,901,Tamesguida,26
+tools.Commune,902,Ben Chicao,26
+tools.Commune,903,El Hamdania,26
+tools.Commune,904,Ouzera,26
+tools.Commune,905,Tizi Mahdi,26
+tools.Commune,906,Ain Boucif,26
+tools.Commune,907,El Ouinet,26
+tools.Commune,908,Kef Lakhdar,26
+tools.Commune,909,Ouled Emaaraf,26
+tools.Commune,910,Sidi Demed,26
+tools.Commune,911,Baata,26
+tools.Commune,912,El Omaria,26
+tools.Commune,913,Ouled Brahim,26
+tools.Commune,914,Bir Ben Laabed,26
+tools.Commune,915,El Guelbelkebir,26
+tools.Commune,916,Sedraya,26
+tools.Commune,917,Ain Ouksir,26
+tools.Commune,918,Chelalet El Adhaoura,26
+tools.Commune,919,Cheniguel,26
+tools.Commune,920,Tafraout,26
+tools.Commune,921,Bouchrahil,26
+tools.Commune,922,Khams Djouamaa,26
+tools.Commune,923,Sidi Naamane,26
+tools.Commune,924,Aziz,26
+tools.Commune,925,Derrag,26
+tools.Commune,926,Oum El Djellil,26
+tools.Commune,927,Djouab,26
+tools.Commune,928,Sidi Zahar,26
+tools.Commune,929,Sidi Ziane,26
+tools.Commune,930,Ouled Antar,26
+tools.Commune,931,Fornaka,27
+tools.Commune,932,Oued El Kheir,27
+tools.Commune,933,Hassiane,27
+tools.Commune,934,Hassi Mameche,27
+tools.Commune,935,Mazagran,27
+tools.Commune,936,Stidia,27
+tools.Commune,937,Ain-Tedles,27
+tools.Commune,938,Sidi Belaattar,27
+tools.Commune,939,Sour,27
+tools.Commune,940,Ain-Boudinar,27
+tools.Commune,941,Kheir-Eddine,27
+tools.Commune,942,Sayada,27
+tools.Commune,943,Sidi Ali,27
+tools.Commune,944,Tazgait,27
+tools.Commune,945,Benabdelmalek Ramdane,27
+tools.Commune,946,Mostaganem,27
+tools.Commune,947,Hadjadj,27
+tools.Commune,948,Sidi-Lakhdar,27
+tools.Commune,949,Achaacha,27
+tools.Commune,950,Khadra,27
+tools.Commune,951,Nekmaria,27
+tools.Commune,952,Ouled Boughalem,27
+tools.Commune,953,Bouguirat,27
+tools.Commune,954,Safsaf,27
+tools.Commune,955,Sirat,27
+tools.Commune,956,Souaflia,27
+tools.Commune,957,Ain-Sidi Cherif,27
+tools.Commune,958,Mansourah,27
+tools.Commune,959,Mesra,27
+tools.Commune,960,Touahria,27
+tools.Commune,961,Ain-Nouissy,27
+tools.Commune,962,Ouled-Maalah,27
+tools.Commune,963,Chellal,28
+tools.Commune,964,Ouled Madhi,28
+tools.Commune,965,Khettouti Sed-El-Jir,28
+tools.Commune,966,Belaiba,28
+tools.Commune,967,Berhoum,28
+tools.Commune,968,Dehahna,28
+tools.Commune,969,Magra,28
+tools.Commune,970,Beni Ilmane,28
+tools.Commune,971,Bouti Sayeh,28
+tools.Commune,972,Sidi Aissa,28
+tools.Commune,973,Ain El Hadjel,28
+tools.Commune,974,Sidi Hadjeres,28
+tools.Commune,975,Bou Saada,28
+tools.Commune,976,El Hamel,28
+tools.Commune,977,Oulteme,28
+tools.Commune,978,Benzouh,28
+tools.Commune,979,Ouled Sidi Brahim,28
+tools.Commune,980,Sidi Ameur,28
+tools.Commune,981,Tamsa,28
+tools.Commune,982,Ben Srour,28
+tools.Commune,983,Mohamed Boudiaf,28
+tools.Commune,984,Ouled Slimane,28
+tools.Commune,985,Zarzour,28
+tools.Commune,986,Ain El Melh,28
+tools.Commune,987,Ain Fares,28
+tools.Commune,988,Ain Rich,28
+tools.Commune,989,Bir Foda,28
+tools.Commune,990,Sidi M'hamed,28
+tools.Commune,991,Medjedel,28
+tools.Commune,992,Menaa,28
+tools.Commune,993,Djebel Messaad,28
+tools.Commune,994,Slim,28
+tools.Commune,995,M'sila,28
+tools.Commune,996,Hammam Dalaa,28
+tools.Commune,997,Ouanougha,28
+tools.Commune,998,Ouled Mansour,28
+tools.Commune,999,Tarmount,28
+tools.Commune,1000,Maadid,28
+tools.Commune,1001,M'tarfa,28
+tools.Commune,1002,Maarif,28
+tools.Commune,1003,Ouled Derradj,28
+tools.Commune,1004,Souamaa,28
+tools.Commune,1005,El Houamed,28
+tools.Commune,1006,Khoubana,28
+tools.Commune,1007,M'cif,28
+tools.Commune,1008,Ain Khadra,28
+tools.Commune,1009,Ouled Addi Guebala,28
+tools.Commune,1010,Oued El Abtal,29
+tools.Commune,1011,Sidi Abdelmoumene,29
+tools.Commune,1012,Sedjerara,29
+tools.Commune,1013,Mohammadia,29
+tools.Commune,1014,Tighennif,29
+tools.Commune,1015,Mocta-Douz,29
+tools.Commune,1016,Ferraguig,29
+tools.Commune,1017,El Ghomri,29
+tools.Commune,1018,Zahana,29
+tools.Commune,1019,El Gaada,29
+tools.Commune,1020,Ras El Ain Amirouche,29
+tools.Commune,1021,Oggaz,29
+tools.Commune,1022,Alaimia,29
+tools.Commune,1023,Sig,29
+tools.Commune,1024,Chorfa,29
+tools.Commune,1025,Bou Henni,29
+tools.Commune,1026,El Mamounia,29
+tools.Commune,1027,El Gueitena,29
+tools.Commune,1028,Ain Fares,29
+tools.Commune,1029,Gharrous,29
+tools.Commune,1030,Benian,29
+tools.Commune,1031,Aouf,29
+tools.Commune,1032,Guerdjoum,29
+tools.Commune,1033,Ain Frass,29
+tools.Commune,1034,Ain Fekan,29
+tools.Commune,1035,Khalouia,29
+tools.Commune,1036,El Menaouer,29
+tools.Commune,1037,El Bordj,29
+tools.Commune,1038,Sidi Boussaid,29
+tools.Commune,1039,Matemore,29
+tools.Commune,1040,Sidi Kada,29
+tools.Commune,1041,Makhda,29
+tools.Commune,1042,Mascara,29
+tools.Commune,1043,Bouhanifia,29
+tools.Commune,1044,Ghriss,29
+tools.Commune,1045,Hacine,29
+tools.Commune,1046,El Keurt,29
+tools.Commune,1047,Froha,29
+tools.Commune,1048,Tizi,29
+tools.Commune,1049,Sehailia,29
+tools.Commune,1050,Maoussa,29
+tools.Commune,1051,Sidi Abdeldjebar,29
+tools.Commune,1052,El Hachem,29
+tools.Commune,1053,Nesmot,29
+tools.Commune,1054,Zelamta,29
+tools.Commune,1055,Ain Ferah,29
+tools.Commune,1056,Oued Taria,29
+tools.Commune,1057,Ouargla,30
+tools.Commune,1058,Hassi Messaoud,30
+tools.Commune,1059,Ain Beida,30
+tools.Commune,1060,Hassi Ben Abdellah,30
+tools.Commune,1061,Sidi Khouiled,30
+tools.Commune,1062,El Borma,30
+tools.Commune,1063,Rouissat,30
+tools.Commune,1064,N'goussa,30
+tools.Commune,1065,Sidi Chami,31
+tools.Commune,1066,Hassi Mefsoukh,31
+tools.Commune,1067,Bir El Djir,31
+tools.Commune,1068,Hassi Ben Okba,31
+tools.Commune,1069,Gdyel,31
+tools.Commune,1070,Hassi Bounif,31
+tools.Commune,1071,El Kerma,31
+tools.Commune,1072,Es Senia,31
+tools.Commune,1073,Ben Freha,31
+tools.Commune,1074,Arzew,31
+tools.Commune,1075,Sidi Ben Yebka,31
+tools.Commune,1076,Ain Biya,31
+tools.Commune,1077,Bethioua,31
+tools.Commune,1078,Marsat El Hadjadj,31
+tools.Commune,1079,Ain Turk,31
+tools.Commune,1080,Oran,31
+tools.Commune,1081,El Ancor,31
+tools.Commune,1082,Mers El Kebir,31
+tools.Commune,1083,Boufatis,31
+tools.Commune,1084,El Braya,31
+tools.Commune,1085,Oued Tlelat,31
+tools.Commune,1086,Ain Kerma,31
+tools.Commune,1087,Boutlelis,31
+tools.Commune,1088,Messerghin,31
+tools.Commune,1089,Bousfer,31
+tools.Commune,1090,Tafraoui,31
+tools.Commune,1091,Ain El Orak,32
+tools.Commune,1092,Krakda,32
+tools.Commune,1093,Sidi Slimane,32
+tools.Commune,1094,Sidi Ameur,32
+tools.Commune,1095,Boualem,32
+tools.Commune,1096,El Bnoud,32
+tools.Commune,1097,Bougtoub,32
+tools.Commune,1098,El Kheiter,32
+tools.Commune,1099,Tousmouline,32
+tools.Commune,1100,Sidi Tiffour,32
+tools.Commune,1101,Stitten,32
+tools.Commune,1102,El Bayadh,32
+tools.Commune,1103,Rogassa,32
+tools.Commune,1104,El Mehara,32
+tools.Commune,1105,Kef El Ahmar,32
+tools.Commune,1106,Brezina,32
+tools.Commune,1107,Ghassoul,32
+tools.Commune,1108,Labiodh Sidi Cheikh,32
+tools.Commune,1109,Boussemghoun,32
+tools.Commune,1110,Cheguig,32
+tools.Commune,1111,Chellala,32
+tools.Commune,1112,Arbaouat,32
+tools.Commune,1113,Bordj Omar Driss,33
+tools.Commune,1114,Debdeb,33
+tools.Commune,1115,In Amenas,33
+tools.Commune,1116,Illizi,33
+tools.Commune,1117,Elhammadia,34
+tools.Commune,1118,Ouled Sidi-Brahim,34
+tools.Commune,1119,Ain Taghrout,34
+tools.Commune,1120,Tixter,34
+tools.Commune,1121,Belimour,34
+tools.Commune,1122,El Annasseur,34
+tools.Commune,1123,Ghailasa,34
+tools.Commune,1124,Taglait,34
+tools.Commune,1125,Bordj Ghedir,34
+tools.Commune,1126,El Euch,34
+tools.Commune,1127,Sidi-Embarek,34
+tools.Commune,1128,Khelil,34
+tools.Commune,1129,Bir Kasdali,34
+tools.Commune,1130,Tefreg,34
+tools.Commune,1131,El Main,34
+tools.Commune,1132,Djaafra,34
+tools.Commune,1133,Colla,34
+tools.Commune,1134,Teniet En Nasr,34
+tools.Commune,1135,El M'hir,34
+tools.Commune,1136,Ksour,34
+tools.Commune,1137,Mansoura,34
+tools.Commune,1138,Haraza,34
+tools.Commune,1139,Rabta,34
+tools.Commune,1140,El Achir,34
+tools.Commune,1141,Hasnaoua,34
+tools.Commune,1142,Medjana,34
+tools.Commune,1143,Ain Tesra,34
+tools.Commune,1144,Ouled Brahem,34
+tools.Commune,1145,Ras El Oued,34
+tools.Commune,1146,Bordj Zemmoura,34
+tools.Commune,1147,Ouled Dahmane,34
+tools.Commune,1148,Tassamert,34
+tools.Commune,1149,B. B. Arreridj,34
+tools.Commune,1150,Ben Daoud,34
+tools.Commune,1151,El Kharrouba,35
+tools.Commune,1152,Dellys,35
+tools.Commune,1153,Ben Choud,35
+tools.Commune,1154,Afir,35
+tools.Commune,1155,Thenia,35
+tools.Commune,1156,Beni Amrane,35
+tools.Commune,1157,Khemis El Khechna,35
+tools.Commune,1158,Ammal,35
+tools.Commune,1159,Timezrit,35
+tools.Commune,1160,Zemmouri,35
+tools.Commune,1161,Larbatache,35
+tools.Commune,1162,Isser,35
+tools.Commune,1163,Chabet El Ameur,35
+tools.Commune,1164,Ouled Aissa,35
+tools.Commune,1165,Naciria,35
+tools.Commune,1166,Bouzegza Keddara,35
+tools.Commune,1167,Souk El Had,35
+tools.Commune,1168,Sidi Daoud,35
+tools.Commune,1169,Baghlia,35
+tools.Commune,1170,Leghata,35
+tools.Commune,1171,Djinet,35
+tools.Commune,1172,Tidjelabine,35
+tools.Commune,1173,Si Mustapha,35
+tools.Commune,1174,Ouled Hedadj,35
+tools.Commune,1175,Ouled Moussa,35
+tools.Commune,1176,Boumerdes,35
+tools.Commune,1177,Corso,35
+tools.Commune,1178,Bordj Menaiel,35
+tools.Commune,1179,Boudouaou,35
+tools.Commune,1180,Boudouaou El Bahri,35
+tools.Commune,1181,Taourga,35
+tools.Commune,1182,Hammedi,35
+tools.Commune,1183,Ain El Assel,36
+tools.Commune,1184,Bougous,36
+tools.Commune,1185,El Tarf,36
+tools.Commune,1186,Zitouna,36
+tools.Commune,1187,Besbes,36
+tools.Commune,1188,Ain Kerma,36
+tools.Commune,1189,Bouhadjar,36
+tools.Commune,1190,Hammam Beni Salah,36
+tools.Commune,1191,Oued Zitoun,36
+tools.Commune,1192,Ben M Hidi,36
+tools.Commune,1193,Berrihane,36
+tools.Commune,1194,Chebaita Mokhtar,36
+tools.Commune,1195,Echatt,36
+tools.Commune,1196,El Aioun,36
+tools.Commune,1197,El Kala,36
+tools.Commune,1198,Souarekh,36
+tools.Commune,1199,Zerizer,36
+tools.Commune,1200,Bouteldja,36
+tools.Commune,1201,Chefia,36
+tools.Commune,1202,Lac Des Oiseaux,36
+tools.Commune,1203,Chihani,36
+tools.Commune,1204,Raml Souk,36
+tools.Commune,1205,Asfour,36
+tools.Commune,1206,Drean,36
+tools.Commune,1207,Tindouf,37
+tools.Commune,1208,Oum El Assel,37
+tools.Commune,1209,Khemisti,38
+tools.Commune,1210,Theniet El Had,38
+tools.Commune,1211,Ouled Bessam,38
+tools.Commune,1212,Sidi Boutouchent,38
+tools.Commune,1213,Tissemsilt,38
+tools.Commune,1214,Sidi Lantri,38
+tools.Commune,1215,Beni Chaib,38
+tools.Commune,1216,Beni Lahcene,38
+tools.Commune,1217,Sidi Abed,38
+tools.Commune,1218,Sidi Slimane,38
+tools.Commune,1219,Boucaid,38
+tools.Commune,1220,Larbaa,38
+tools.Commune,1221,Lazharia,38
+tools.Commune,1222,Lardjem,38
+tools.Commune,1223,Melaab,38
+tools.Commune,1224,Layoune,38
+tools.Commune,1225,Tamellahet,38
+tools.Commune,1226,Youssoufia,38
+tools.Commune,1227,Bordj El Emir Abdelkader,38
+tools.Commune,1228,Ammari,38
+tools.Commune,1229,Maacem,38
+tools.Commune,1230,Bordj Bounaama,38
+tools.Commune,1231,Douar El Maa,39
+tools.Commune,1232,El Ogla,39
+tools.Commune,1233,Magrane,39
+tools.Commune,1234,Sidi Aoun,39
+tools.Commune,1235,Mih Ouansa,39
+tools.Commune,1236,Kouinine,39
+tools.Commune,1237,Bayadha,39
+tools.Commune,1238,Nakhla,39
+tools.Commune,1239,Robbah,39
+tools.Commune,1240,Guemar,39
+tools.Commune,1241,Ben Guecha,39
+tools.Commune,1242,Ourmes,39
+tools.Commune,1243,Taghzout,39
+tools.Commune,1244,Hamraia,39
+tools.Commune,1245,Reguiba,39
+tools.Commune,1246,Debila,39
+tools.Commune,1247,Hassani Abdelkrim,39
+tools.Commune,1248,Hassi Khalifa,39
+tools.Commune,1249,Trifaoui,39
+tools.Commune,1250,Taleb Larbi,39
+tools.Commune,1251,Oued El Alenda,39
+tools.Commune,1252,El-Oued,39
+tools.Commune,1253,Khirane,40
+tools.Commune,1254,Babar,40
+tools.Commune,1255,El Mahmal,40
+tools.Commune,1256,Ouled Rechache,40
+tools.Commune,1257,Djellal,40
+tools.Commune,1258,Yabous,40
+tools.Commune,1259,Khenchela,40
+tools.Commune,1260,Kais,40
+tools.Commune,1261,Chelia,40
+tools.Commune,1262,Remila,40
+tools.Commune,1263,Taouzianat,40
+tools.Commune,1264,Baghai,40
+tools.Commune,1265,El Hamma,40
+tools.Commune,1266,Ensigha,40
+tools.Commune,1267,Tamza,40
+tools.Commune,1268,Ain Touila,40
+tools.Commune,1269,M'toussa,40
+tools.Commune,1270,Bouhmama,40
+tools.Commune,1271,El Oueldja,40
+tools.Commune,1272,M'sara,40
+tools.Commune,1273,Chechar,40
+tools.Commune,1274,Souk Ahras,41
+tools.Commune,1275,Ain Soltane,41
+tools.Commune,1276,Sedrata,41
+tools.Commune,1277,Hanencha,41
+tools.Commune,1278,Machroha,41
+tools.Commune,1279,Ain Zana,41
+tools.Commune,1280,Ouled Driss,41
+tools.Commune,1281,Terraguelt,41
+tools.Commune,1282,Oum El Adhaim,41
+tools.Commune,1283,Oued Kebrit,41
+tools.Commune,1284,Tiffech,41
+tools.Commune,1285,Ragouba,41
+tools.Commune,1286,Drea,41
+tools.Commune,1287,Taoura,41
+tools.Commune,1288,Zaarouria,41
+tools.Commune,1289,Haddada,41
+tools.Commune,1290,Khedara,41
+tools.Commune,1291,Ouled Moumen,41
+tools.Commune,1292,Merahna,41
+tools.Commune,1293,Ouillen,41
+tools.Commune,1294,Sidi Fredj,41
+tools.Commune,1295,Bir Bouhouche,41
+tools.Commune,1296,Safel El Ouiden,41
+tools.Commune,1297,Khemissa,41
+tools.Commune,1298,M'daourouche,41
+tools.Commune,1299,Zouabi,41
+tools.Commune,1300,Hadjout,42
+tools.Commune,1301,Merad,42
+tools.Commune,1302,Menaceur,42
+tools.Commune,1303,Aghbal,42
+tools.Commune,1304,Nador,42
+tools.Commune,1305,Sidi-Amar,42
+tools.Commune,1306,Gouraya,42
+tools.Commune,1307,Messelmoun,42
+tools.Commune,1308,Cherchell,42
+tools.Commune,1309,Hadjret Ennous,42
+tools.Commune,1310,Sidi Ghiles,42
+tools.Commune,1311,Damous,42
+tools.Commune,1312,Larhat,42
+tools.Commune,1313,Fouka,42
+tools.Commune,1314,Ain Tagourait,42
+tools.Commune,1315,Bou Haroun,42
+tools.Commune,1316,Bou Ismail,42
+tools.Commune,1317,Khemisti,42
+tools.Commune,1318,Ahmer El Ain,42
+tools.Commune,1319,Bourkika,42
+tools.Commune,1320,Douaouda,42
+tools.Commune,1321,Sidi Rached,42
+tools.Commune,1322,Attatba,42
+tools.Commune,1323,Chaiba,42
+tools.Commune,1324,Kolea,42
+tools.Commune,1325,Sidi Semiane,42
+tools.Commune,1326,Tipaza,42
+tools.Commune,1327,Beni Mileuk,42
+tools.Commune,1328,El Mechira,43
+tools.Commune,1329,El Ayadi Barbes,43
+tools.Commune,1330,Ain Beida Harriche,43
+tools.Commune,1331,Tassala Lematai,43
+tools.Commune,1332,Terrai Bainen,43
+tools.Commune,1333,Amira Arres,43
+tools.Commune,1334,Tassadane Haddada,43
+tools.Commune,1335,Minar Zarza,43
+tools.Commune,1336,Sidi Merouane,43
+tools.Commune,1337,Chigara,43
+tools.Commune,1338,Hamala,43
+tools.Commune,1339,Grarem Gouga,43
+tools.Commune,1340,Tiberguent,43
+tools.Commune,1341,Rouached,43
+tools.Commune,1342,Derrahi Bousselah,43
+tools.Commune,1343,Zeghaia,43
+tools.Commune,1344,Oued Endja,43
+tools.Commune,1345,Ahmed Rachedi,43
+tools.Commune,1346,Tadjenanet,43
+tools.Commune,1347,Ain Mellouk,43
+tools.Commune,1348,Ouled Khalouf,43
+tools.Commune,1349,Benyahia Abderrahmane,43
+tools.Commune,1350,Teleghma,43
+tools.Commune,1351,Oued Seguen,43
+tools.Commune,1352,Oued Athmenia,43
+tools.Commune,1353,Ain Tine,43
+tools.Commune,1354,Chelghoum Laid,43
+tools.Commune,1355,Yahia Beniguecha,43
+tools.Commune,1356,Ferdjioua,43
+tools.Commune,1357,Sidi Khelifa,43
+tools.Commune,1358,Mila,43
+tools.Commune,1359,Bouhatem,43
+tools.Commune,1360,Khemis-Miliana,44
+tools.Commune,1361,Sidi-Lakhdar,44
+tools.Commune,1362,Ain-Benian,44
+tools.Commune,1363,Ain-Torki,44
+tools.Commune,1364,Hammam-Righa,44
+tools.Commune,1365,Bourached,44
+tools.Commune,1366,Hoceinia,44
+tools.Commune,1367,Djelida,44
+tools.Commune,1368,Arib,44
+tools.Commune,1369,Djemaa Ouled Cheikh,44
+tools.Commune,1370,El-Amra,44
+tools.Commune,1371,El-Attaf,44
+tools.Commune,1372,Tiberkanine,44
+tools.Commune,1373,Ain-Bouyahia,44
+tools.Commune,1374,El-Abadia,44
+tools.Commune,1375,Tacheta Zegagha,44
+tools.Commune,1376,Birbouche,44
+tools.Commune,1377,Djendel,44
+tools.Commune,1378,Ben Allal,44
+tools.Commune,1379,Oued Chorfa,44
+tools.Commune,1380,Boumedfaa,44
+tools.Commune,1381,Ain-Lechiakh,44
+tools.Commune,1382,Ain-Soltane,44
+tools.Commune,1383,Oued Djemaa,44
+tools.Commune,1384,El-Maine,44
+tools.Commune,1385,Rouina,44
+tools.Commune,1386,Zeddine,44
+tools.Commune,1387,Bir-Ould-Khelifa,44
+tools.Commune,1388,Bordj-Emir-Khaled,44
+tools.Commune,1389,Tarik-Ibn-Ziad,44
+tools.Commune,1390,Bathia,44
+tools.Commune,1391,Belaas,44
+tools.Commune,1392,Hassania,44
+tools.Commune,1393,Ain-Defla,44
+tools.Commune,1394,Miliana,44
+tools.Commune,1395,Mekhatria,44
+tools.Commune,1396,Tiout,45
+tools.Commune,1397,Moghrar,45
+tools.Commune,1398,Asla,45
+tools.Commune,1399,Kasdir,45
+tools.Commune,1400,Makmen Ben Amar,45
+tools.Commune,1401,Ain Sefra,45
+tools.Commune,1402,Mecheria,45
+tools.Commune,1403,El Biodh,45
+tools.Commune,1404,Ain Ben Khelil,45
+tools.Commune,1405,Naama,45
+tools.Commune,1406,Djenienne Bourezg,45
+tools.Commune,1407,Sfissifa,45
+tools.Commune,1408,Sidi Boumediene,46
+tools.Commune,1409,Tamzoura,46
+tools.Commune,1410,Chaabat El Ham,46
+tools.Commune,1411,El Maleh,46
+tools.Commune,1412,Ouled Kihal,46
+tools.Commune,1413,Chentouf,46
+tools.Commune,1414,Terga,46
+tools.Commune,1415,Oued Sebbah,46
+tools.Commune,1416,El Amria,46
+tools.Commune,1417,Hassi El Ghella,46
+tools.Commune,1418,Ouled Boudjemaa,46
+tools.Commune,1419,Aghlal,46
+tools.Commune,1420,Ain Kihal,46
+tools.Commune,1421,Ain Tolba,46
+tools.Commune,1422,Aoubellil,46
+tools.Commune,1423,Beni Saf,46
+tools.Commune,1424,Hassasna,46
+tools.Commune,1425,Emir Abdelkader,46
+tools.Commune,1426,Sidi Safi,46
+tools.Commune,1427,Oulhaca El Gheraba,46
+tools.Commune,1428,Sidi Ouriache,46
+tools.Commune,1429,Ain El Arbaa,46
+tools.Commune,1430,El Messaid,46
+tools.Commune,1431,Oued Berkeche,46
+tools.Commune,1432,Sidi Ben Adda,46
+tools.Commune,1433,Ain Temouchent,46
+tools.Commune,1434,Bouzedjar,46
+tools.Commune,1435,Hammam Bou Hadjar,46
+tools.Commune,1436,Dhayet Bendhahoua,47
+tools.Commune,1437,Mansoura,47
+tools.Commune,1438,El Atteuf,47
+tools.Commune,1439,Bounoura,47
+tools.Commune,1440,Zelfana,47
+tools.Commune,1441,El Guerrara,47
+tools.Commune,1442,Sebseb,47
+tools.Commune,1443,Metlili,47
+tools.Commune,1444,Berriane,47
+tools.Commune,1445,Ghardaia,47
+tools.Commune,1446,El-Guettar,48
+tools.Commune,1447,Ouled Aiche,48
+tools.Commune,1448,Beni Dergoun,48
+tools.Commune,1449,Dar Ben Abdelah,48
+tools.Commune,1450,Zemmoura,48
+tools.Commune,1451,Djidiouia,48
+tools.Commune,1452,Hamri,48
+tools.Commune,1453,Belaassel Bouzagza,48
+tools.Commune,1454,El-Matmar,48
+tools.Commune,1455,Sidi Khettab,48
+tools.Commune,1456,Sidi M'hamed Benaouda,48
+tools.Commune,1457,Ain-Tarek,48
+tools.Commune,1458,Had Echkalla,48
+tools.Commune,1459,El Ouldja,48
+tools.Commune,1460,Mazouna,48
+tools.Commune,1461,Ain Rahma,48
+tools.Commune,1462,Kalaa,48
+tools.Commune,1463,Sidi Saada,48
+tools.Commune,1464,Yellel,48
+tools.Commune,1465,Souk El Had,48
+tools.Commune,1466,Mendes,48
+tools.Commune,1467,Oued Essalem,48
+tools.Commune,1468,Sidi Lazreg,48
+tools.Commune,1469,Ammi Moussa,48
+tools.Commune,1470,Ouarizane,48
+tools.Commune,1471,Merdja Sidi Abed,48
+tools.Commune,1472,Ouled Sidi Mihoub,48
+tools.Commune,1473,Bendaoud,48
+tools.Commune,1474,Oued-Rhiou,48
+tools.Commune,1475,El Hassi,48
+tools.Commune,1476,Sidi M'hamed Benali,48
+tools.Commune,1477,Mediouna,48
+tools.Commune,1478,Beni Zentis,48
+tools.Commune,1479,Oued El Djemaa,48
+tools.Commune,1480,Lahlef,48
+tools.Commune,1481,Relizane,48
+tools.Commune,1482,El H'madna,48
+tools.Commune,1483,Ramka,48
+tools.Commune,1484,Tinerkouk,49
+tools.Commune,1485,Timimoun,49
+tools.Commune,1486,Ouled Said,49
+tools.Commune,1487,Metarfa,49
+tools.Commune,1488,Talmine,49
+tools.Commune,1489,Ouled Aissa,49
+tools.Commune,1490,Charouine,49
+tools.Commune,1491,Aougrout,49
+tools.Commune,1492,Deldoul,49
+tools.Commune,1493,Ksar Kaddour,49
+tools.Commune,1494,Timiaouine,50
+tools.Commune,1495,Bordj Badji Mokhtar,50
+tools.Commune,1496,Ras El Miad,51
+tools.Commune,1497,Besbes,51
+tools.Commune,1498,Sidi Khaled,51
+tools.Commune,1499,Doucen,51
+tools.Commune,1500,Chaiba,51
+tools.Commune,1501,Ouled Djellal,51
+tools.Commune,1502,Beni-Abbes,52
+tools.Commune,1503,Tamtert,52
+tools.Commune,1504,Igli,52
+tools.Commune,1505,El Ouata,52
+tools.Commune,1506,Ouled-Khodeir,52
+tools.Commune,1507,Kerzaz,52
+tools.Commune,1508,Timoudi,52
+tools.Commune,1509,Ksabi,52
+tools.Commune,1510,Beni-Ikhlef,52
+tools.Commune,1511,Inghar,53
+tools.Commune,1512,Ain Salah,53
+tools.Commune,1513,Foggaret Ezzoua,53
+tools.Commune,1514,Tin Zouatine,54
+tools.Commune,1515,Ain Guezzam,54
+tools.Commune,1516,Temacine,55
+tools.Commune,1517,Sidi Slimane,55
+tools.Commune,1518,Megarine,55
+tools.Commune,1519,Nezla,55
+tools.Commune,1520,Blidet Amor,55
+tools.Commune,1521,Tebesbest,55
+tools.Commune,1522,Touggourt,55
+tools.Commune,1523,Taibet,55
+tools.Commune,1524,El Alia,55
+tools.Commune,1525,El-Hadjira,55
+tools.Commune,1526,Benaceur,55
+tools.Commune,1527,M'naguer,55
+tools.Commune,1528,Zaouia El Abidia,55
+tools.Commune,1529,Djanet,56
+tools.Commune,1530,Bordj El Haouass,56
+tools.Commune,1531,Oum Touyour,57
+tools.Commune,1532,Sidi Amrane,57
+tools.Commune,1533,M'rara,57
+tools.Commune,1534,Djamaa,57
+tools.Commune,1535,Tenedla,57
+tools.Commune,1536,El-M'ghaier,57
+tools.Commune,1537,Still,57
+tools.Commune,1538,Sidi Khelil,57
+tools.Commune,1539,El Meniaa,58
+tools.Commune,1540,Hassi Gara,58
+tools.Commune,1541,Hassi Fehal,58

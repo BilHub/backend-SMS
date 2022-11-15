@@ -1,0 +1,23 @@
+[
+  {
+    "model": "course.Cycle",
+    "pk": 1,
+    "fields": {
+      "name": "PRIMAIRE"
+    }
+  },
+  {
+    "model": "course.Cycle",
+    "pk": 2,
+    "fields": {
+      "name": "COLLEGE"
+    }
+  },
+  {
+    "model": "course.Cycle",
+    "pk": 3,
+    "fields": {
+      "name": "LYCEE"
+    }
+  }
+]

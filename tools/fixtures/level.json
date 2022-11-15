@@ -1,0 +1,90 @@
+[
+  {
+    "model": "course.Level",
+    "pk": 1,
+    "fields": {
+      "name": "1ere année Primaire",
+      "cycle_id": "1"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 2,
+    "fields": {
+      "name": "2ème année Primaire",
+      "cycle_id": "1"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 3,
+    "fields": {
+      "name": "3ème année Primaire",
+      "cycle_id": "1"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 4,
+    "fields": {
+      "name": "4ème année Primaire",
+      "cycle_id": "1"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 5,
+    "fields": {
+      "name": "5ème année Primaire",
+      "cycle_id": "1"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 6,
+    "fields": {
+      "name": "1ère année College",
+      "cycle_id": "2"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 7,
+    "fields": {
+      "name": "2ème année College",
+      "cycle_id": "2"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 8,
+    "fields": {
+      "name": "3ème année College",
+      "cycle_id": "2"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 9,
+    "fields": {
+      "name": "1ère année Lycée",
+      "cycle_id": "3"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 10,
+    "fields": {
+      "name": "2ème année Lycée",
+      "cycle_id": "3"
+    }
+  },
+  {
+    "model": "course.Level",
+    "pk": 11,
+    "fields": {
+      "name": "3ème année Lycée",
+      "cycle_id": "3"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "model": "school.School",
+    "pk": 1,
+    "fields": {
+      "school_name": "school1",
+      "subdomain": "school1/",
+      "commune": 554,
+      "address": "said hamdine"
+    }
+  },
+  {
+    "model": "school.School",
+    "pk": 2,
+    "fields": {
+      "school_name": "school2",
+      "subdomain": "school2/",
+      "commune": 554,
+      "address": "said hamdine"
+    }
+  }
+]

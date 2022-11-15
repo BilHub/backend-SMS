@@ -1,0 +1,9246 @@
+[{
+    "model": "tools.Commune",
+    "pk": "1",
+    "fields": { "name": "Timekten",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "2",
+    "fields": { "name": "Bouda",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "3",
+    "fields": { "name": "Ouled Ahmed Timmi",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "4",
+    "fields": { "name": "Adrar",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "5",
+    "fields": { "name": "Fenoughil",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "6",
+    "fields": { "name": "In Zghmir",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "7",
+    "fields": { "name": "Reggane",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "8",
+    "fields": { "name": "Sali",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "9",
+    "fields": { "name": "Sebaa",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "10",
+    "fields": { "name": "Tsabit",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "11",
+    "fields": { "name": "Tamest",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "12",
+    "fields": { "name": "Tamantit",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "13",
+    "fields": { "name": "Tit",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "14",
+    "fields": { "name": "Zaouiet Kounta",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "15",
+    "fields": { "name": "Akabli",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "16",
+    "fields": { "name": "Aoulef",
+    "wilaya_id": "1"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "17",
+    "fields": { "name": "Talassa",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "18",
+    "fields": { "name": "Zeboudja",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "19",
+    "fields": { "name": "El Hadjadj",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "20",
+    "fields": { "name": "Ouled Ben Abdelkader",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "21",
+    "fields": { "name": "Ain Merane",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "22",
+    "fields": { "name": "Breira",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "23",
+    "fields": { "name": "Ouled Abbes",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "24",
+    "fields": { "name": "Oued Fodda",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "25",
+    "fields": { "name": "Beni Rached",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "26",
+    "fields": { "name": "Herenfa",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "27",
+    "fields": { "name": "Tadjena",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "28",
+    "fields": { "name": "El Marsa",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "29",
+    "fields": { "name": "Chlef",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "30",
+    "fields": { "name": "Oum Drou",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "31",
+    "fields": { "name": "Sendjas",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "32",
+    "fields": { "name": "Sidi Abderrahmane",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "33",
+    "fields": { "name": "Sidi Akkacha",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "34",
+    "fields": { "name": "Tenes",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "35",
+    "fields": { "name": "Beni Bouattab",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "36",
+    "fields": { "name": "El Karimia",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "37",
+    "fields": { "name": "Harchoun",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "38",
+    "fields": { "name": "Bouzeghaia",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "39",
+    "fields": { "name": "Taougrit",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "40",
+    "fields": { "name": "Beni Haoua",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "41",
+    "fields": { "name": "Abou El Hassane",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "42",
+    "fields": { "name": "Oued Goussine",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "43",
+    "fields": { "name": "Chettia",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "44",
+    "fields": { "name": "Moussadek",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "45",
+    "fields": { "name": "Ouled Fares",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "46",
+    "fields": { "name": "Boukadir",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "47",
+    "fields": { "name": "Oued Sly",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "48",
+    "fields": { "name": "Sobha",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "49",
+    "fields": { "name": "Benairia",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "50",
+    "fields": { "name": "Labiod Medjadja",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "51",
+    "fields": { "name": "Dahra",
+    "wilaya_id": "2"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "52",
+    "fields": { "name": "El Beidha",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "53",
+    "fields": { "name": "Gueltat Sidi Saad",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "54",
+    "fields": { "name": "Brida",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "55",
+    "fields": { "name": "Ain Sidi Ali",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "56",
+    "fields": { "name": "Tadjemout",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "57",
+    "fields": { "name": "Hadj Mechri",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "58",
+    "fields": { "name": "Taouiala",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "59",
+    "fields": { "name": "El Ghicha",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "60",
+    "fields": { "name": "Tadjrouna",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "61",
+    "fields": { "name": "Sebgag",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "62",
+    "fields": { "name": "Sidi Bouzid",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "63",
+    "fields": { "name": "Oued Morra",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "64",
+    "fields": { "name": "Laghouat",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "65",
+    "fields": { "name": "Oued M'zi",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "66",
+    "fields": { "name": "Ksar El Hirane",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "67",
+    "fields": { "name": "El Assafia",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "68",
+    "fields": { "name": "Sidi Makhlouf",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "69",
+    "fields": { "name": "Hassi Delaa",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "70",
+    "fields": { "name": "Hassi R'mel",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "71",
+    "fields": { "name": "Ain Madhi",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "72",
+    "fields": { "name": "El Haouaita",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "73",
+    "fields": { "name": "Kheneg",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "74",
+    "fields": { "name": "Benacer Benchohra",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "75",
+    "fields": { "name": "Aflou",
+    "wilaya_id": "3"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "76",
+    "fields": { "name": "Fkirina",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "77",
+    "fields": { "name": "El Fedjoudj Boughrara Sa",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "78",
+    "fields": { "name": "Ain Fekroun",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "79",
+    "fields": { "name": "Rahia",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "80",
+    "fields": { "name": "Meskiana",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "81",
+    "fields": { "name": "El Belala",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "82",
+    "fields": { "name": "Behir Chergui",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "83",
+    "fields": { "name": "Ksar Sbahi",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "84",
+    "fields": { "name": "Souk Naamane",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "85",
+    "fields": { "name": "Ouled Zouai",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "86",
+    "fields": { "name": "Oum El Bouaghi",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "87",
+    "fields": { "name": "Ain Babouche",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "88",
+    "fields": { "name": "Ain Zitoun",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "89",
+    "fields": { "name": "Bir Chouhada",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "90",
+    "fields": { "name": "Ain Beida",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "91",
+    "fields": { "name": "Berriche",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "92",
+    "fields": { "name": "Zorg",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "93",
+    "fields": { "name": "Ain M'lila",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "94",
+    "fields": { "name": "Ouled Gacem",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "95",
+    "fields": { "name": "Ouled Hamla",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "96",
+    "fields": { "name": "El Amiria",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "97",
+    "fields": { "name": "Sigus",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "98",
+    "fields": { "name": "Oued Nini",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "99",
+    "fields": { "name": "Ain Diss",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "100",
+    "fields": { "name": "Dhalaa",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "101",
+    "fields": { "name": "El Djazia",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "102",
+    "fields": { "name": "Ain Kercha",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "103",
+    "fields": { "name": "El Harmilia",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "104",
+    "fields": { "name": "Hanchir Toumghani",
+    "wilaya_id": "4"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "105",
+    "fields": { "name": "Maafa",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "106",
+    "fields": { "name": "Gosbat",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "107",
+    "fields": { "name": "Timgad",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "108",
+    "fields": { "name": "Taxlent",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "109",
+    "fields": { "name": "Ouled Si Slimane",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "110",
+    "fields": { "name": "Lemcene",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "111",
+    "fields": { "name": "Talkhamt",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "112",
+    "fields": { "name": "Ras El Aioun",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "113",
+    "fields": { "name": "Rahbat",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "114",
+    "fields": { "name": "Ouled Sellem",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "115",
+    "fields": { "name": "Guigba",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "116",
+    "fields": { "name": "Teniet El Abed",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "117",
+    "fields": { "name": "Batna",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "118",
+    "fields": { "name": "Fesdis",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "119",
+    "fields": { "name": "Oued Chaaba",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "120",
+    "fields": { "name": "Hidoussa",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "121",
+    "fields": { "name": "Ksar Bellezma",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "122",
+    "fields": { "name": "Merouana",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "123",
+    "fields": { "name": "Oued El Ma",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "124",
+    "fields": { "name": "Lazrou",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "125",
+    "fields": { "name": "Seriana",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "126",
+    "fields": { "name": "Zanet El Beida",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "127",
+    "fields": { "name": "Menaa",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "128",
+    "fields": { "name": "Tigharghar",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "129",
+    "fields": { "name": "Ain Yagout",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "130",
+    "fields": { "name": "Boumia",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "131",
+    "fields": { "name": "Djerma",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "132",
+    "fields": { "name": "El Madher",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "133",
+    "fields": { "name": "Ouyoun El Assafir",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "134",
+    "fields": { "name": "Tazoult",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "135",
+    "fields": { "name": "Boumagueur",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "136",
+    "fields": { "name": "N Gaous",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "137",
+    "fields": { "name": "Sefiane",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "138",
+    "fields": { "name": "Arris",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "139",
+    "fields": { "name": "Tighanimine",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "140",
+    "fields": { "name": "Ain Djasser",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "141",
+    "fields": { "name": "El Hassi",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "142",
+    "fields": { "name": "Seggana",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "143",
+    "fields": { "name": "Tilatou",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "144",
+    "fields": { "name": "Foum Toub",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "145",
+    "fields": { "name": "Ichemoul",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "146",
+    "fields": { "name": "Inoughissen",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "147",
+    "fields": { "name": "Bouzina",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "148",
+    "fields": { "name": "Larbaa",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "149",
+    "fields": { "name": "Boulhilat",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "150",
+    "fields": { "name": "Chemora",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "151",
+    "fields": { "name": "Barika",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "152",
+    "fields": { "name": "Bitam",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "153",
+    "fields": { "name": "M Doukal",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "154",
+    "fields": { "name": "Azil Abedelkader",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "155",
+    "fields": { "name": "Djezzar",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "156",
+    "fields": { "name": "Ouled Ammar",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "157",
+    "fields": { "name": "Ghassira",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "158",
+    "fields": { "name": "Kimmel",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "159",
+    "fields": { "name": "T Kout",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "160",
+    "fields": { "name": "Ain Touta",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "161",
+    "fields": { "name": "Beni Foudhala El Hakania",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "162",
+    "fields": { "name": "Ouled Fadel",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "163",
+    "fields": { "name": "Ouled Aouf",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "164",
+    "fields": { "name": "Chir",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "165",
+    "fields": { "name": "Oued Taga",
+    "wilaya_id": "5"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "166",
+    "fields": { "name": "Sidi Ayad",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "167",
+    "fields": { "name": "Barbacha",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "168",
+    "fields": { "name": "Leflaye",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "169",
+    "fields": { "name": "Kendira",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "170",
+    "fields": { "name": "Sidi-Aich",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "171",
+    "fields": { "name": "Tifra",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "172",
+    "fields": { "name": "Tinebdar",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "173",
+    "fields": { "name": "El Kseur",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "174",
+    "fields": { "name": "Fenaia Il Maten",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "175",
+    "fields": { "name": "Toudja",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "176",
+    "fields": { "name": "Dra El Caid",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "177",
+    "fields": { "name": "Kherrata",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "178",
+    "fields": { "name": "Bejaia",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "179",
+    "fields": { "name": "Oued Ghir",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "180",
+    "fields": { "name": "Benimaouche",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "181",
+    "fields": { "name": "Beni Djellil",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "182",
+    "fields": { "name": "Feraoun",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "183",
+    "fields": { "name": "Smaoun",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "184",
+    "fields": { "name": "Timezrit",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "185",
+    "fields": { "name": "Melbou",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "186",
+    "fields": { "name": "Souk El Tenine",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "187",
+    "fields": { "name": "Tamridjet",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "188",
+    "fields": { "name": "Boukhelifa",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "189",
+    "fields": { "name": "Tala Hamza",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "190",
+    "fields": { "name": "Tichy",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "191",
+    "fields": { "name": "Ait R'zine",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "192",
+    "fields": { "name": "Ighil-Ali",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "193",
+    "fields": { "name": "Ait-Smail",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "194",
+    "fields": { "name": "Darguina",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "195",
+    "fields": { "name": "Taskriout",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "196",
+    "fields": { "name": "Aokas",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "197",
+    "fields": { "name": "Tizi-N'berber",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "198",
+    "fields": { "name": "Adekar",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "199",
+    "fields": { "name": "Beni K'sila",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "200",
+    "fields": { "name": "Taourit Ighil",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "201",
+    "fields": { "name": "Akbou",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "202",
+    "fields": { "name": "Chellata",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "203",
+    "fields": { "name": "Ighram",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "204",
+    "fields": { "name": "Tamokra",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "205",
+    "fields": { "name": "Amalou",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "206",
+    "fields": { "name": "Bouhamza",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "207",
+    "fields": { "name": "M'cisna",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "208",
+    "fields": { "name": "Seddouk",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "209",
+    "fields": { "name": "Beni-Mallikeche",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "210",
+    "fields": { "name": "Boudjellil",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "211",
+    "fields": { "name": "Tazmalt",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "212",
+    "fields": { "name": "Akfadou",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "213",
+    "fields": { "name": "Chemini",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "214",
+    "fields": { "name": "Souk Oufella",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "215",
+    "fields": { "name": "Tibane",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "216",
+    "fields": { "name": "Ouzellaguen",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "217",
+    "fields": { "name": "Amizour",
+    "wilaya_id": "6"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "218",
+    "fields": { "name": "El Feidh",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "219",
+    "fields": { "name": "Lichana",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "220",
+    "fields": { "name": "Bouchakroun",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "221",
+    "fields": { "name": "Mekhadma",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "222",
+    "fields": { "name": "Djemorah",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "223",
+    "fields": { "name": "Branis",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "224",
+    "fields": { "name": "El Outaya",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "225",
+    "fields": { "name": "El Kantara",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "226",
+    "fields": { "name": "Khenguet Sidi Nadji",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "227",
+    "fields": { "name": "Ain Zaatout",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "228",
+    "fields": { "name": "Zeribet El Oued",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "229",
+    "fields": { "name": "Meziraa",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "230",
+    "fields": { "name": "Biskra",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "231",
+    "fields": { "name": "El Hadjab",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "232",
+    "fields": { "name": "M'lili",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "233",
+    "fields": { "name": "Foughala",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "234",
+    "fields": { "name": "El Ghrous",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "235",
+    "fields": { "name": "Bordj Ben Azzouz",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "236",
+    "fields": { "name": "Ourlal",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "237",
+    "fields": { "name": "Oumache",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "238",
+    "fields": { "name": "Ain Naga",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "239",
+    "fields": { "name": "Chetma",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "240",
+    "fields": { "name": "El Haouch",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "241",
+    "fields": { "name": "Sidi Okba",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "242",
+    "fields": { "name": "M'chouneche",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "243",
+    "fields": { "name": "Lioua",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "244",
+    "fields": { "name": "Tolga",
+    "wilaya_id": "7"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "245",
+    "fields": { "name": "Bechar",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "246",
+    "fields": { "name": "Boukais",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "247",
+    "fields": { "name": "Lahmar",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "248",
+    "fields": { "name": "Mogheul",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "249",
+    "fields": { "name": "Meridja",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "250",
+    "fields": { "name": "Taghit",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "251",
+    "fields": { "name": "Abadla",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "252",
+    "fields": { "name": "Erg-Ferradj",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "253",
+    "fields": { "name": "Machraa-Houari-Boumediene",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "254",
+    "fields": { "name": "Beni-Ounif",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "255",
+    "fields": { "name": "Tabelbala",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "256",
+    "fields": { "name": "Kenadsa",
+    "wilaya_id": "8"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "257",
+    "fields": { "name": "Beni Mered",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "258",
+    "fields": { "name": "Ouled Slama",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "259",
+    "fields": { "name": "Mouzaia",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "260",
+    "fields": { "name": "Hammam Elouane",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "261",
+    "fields": { "name": "Bougara",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "262",
+    "fields": { "name": "Souhane",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "263",
+    "fields": { "name": "Larbaa",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "264",
+    "fields": { "name": "Soumaa",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "265",
+    "fields": { "name": "Guerrouaou",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "266",
+    "fields": { "name": "Boufarik",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "267",
+    "fields": { "name": "Meftah",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "268",
+    "fields": { "name": "Chiffa",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "269",
+    "fields": { "name": "Ain Romana",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "270",
+    "fields": { "name": "Oued Djer",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "271",
+    "fields": { "name": "El-Affroun",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "272",
+    "fields": { "name": "Ouled Yaich",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "273",
+    "fields": { "name": "Chrea",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "274",
+    "fields": { "name": "Djebabra",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "275",
+    "fields": { "name": "Oued El Alleug",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "276",
+    "fields": { "name": "Benkhelil",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "277",
+    "fields": { "name": "Beni-Tamou",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "278",
+    "fields": { "name": "Chebli",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "279",
+    "fields": { "name": "Bouinan",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "280",
+    "fields": { "name": "Bouarfa",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "281",
+    "fields": { "name": "Blida",
+    "wilaya_id": "9"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "282",
+    "fields": { "name": "Ain Laloui",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "283",
+    "fields": { "name": "Hadjera Zerga",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "284",
+    "fields": { "name": "Mezdour",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "285",
+    "fields": { "name": "Taguedite",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "286",
+    "fields": { "name": "Ridane",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "287",
+    "fields": { "name": "Maamora",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "288",
+    "fields": { "name": "El-Hakimia",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "289",
+    "fields": { "name": "Ahl El Ksar",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "290",
+    "fields": { "name": "Dirah",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "291",
+    "fields": { "name": "Dechmia",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "292",
+    "fields": { "name": "Bechloul",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "293",
+    "fields": { "name": "Ath Mansour",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "294",
+    "fields": { "name": "Saharidj",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "295",
+    "fields": { "name": "El Adjiba",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "296",
+    "fields": { "name": "El Asnam",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "297",
+    "fields": { "name": "M Chedallah",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "298",
+    "fields": { "name": "Bordj Okhriss",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "299",
+    "fields": { "name": "Sour El Ghozlane",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "300",
+    "fields": { "name": "Hanif",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "301",
+    "fields": { "name": "Chorfa",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "302",
+    "fields": { "name": "Ouled Rached",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "303",
+    "fields": { "name": "Ain El Hadjar",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "304",
+    "fields": { "name": "Aghbalou",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "305",
+    "fields": { "name": "Raouraoua",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "306",
+    "fields": { "name": "El Khabouzia",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "307",
+    "fields": { "name": "Bir Ghbalou",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "308",
+    "fields": { "name": "Bouira",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "309",
+    "fields": { "name": "Ain Turk",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "310",
+    "fields": { "name": "Ait Laaziz",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "311",
+    "fields": { "name": "Ain-Bessem",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "312",
+    "fields": { "name": "El-Mokrani",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "313",
+    "fields": { "name": "Souk El Khemis",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "314",
+    "fields": { "name": "Aomar",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "315",
+    "fields": { "name": "Djebahia",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "316",
+    "fields": { "name": "El Hachimia",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "317",
+    "fields": { "name": "Haizer",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "318",
+    "fields": { "name": "Taghzout",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "319",
+    "fields": { "name": "Bouderbala",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "320",
+    "fields": { "name": "Boukram",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "321",
+    "fields": { "name": "Guerrouma",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "322",
+    "fields": { "name": "Lakhdaria",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "323",
+    "fields": { "name": "Maala",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "324",
+    "fields": { "name": "Kadiria",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "325",
+    "fields": { "name": "Z'barbar (El Isseri )",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "326",
+    "fields": { "name": "Oued El Berdi",
+    "wilaya_id": "10"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "327",
+    "fields": { "name": "Tazrouk",
+    "wilaya_id": "11"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "328",
+    "fields": { "name": "Abelsa",
+    "wilaya_id": "11"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "329",
+    "fields": { "name": "Tamanrasset",
+    "wilaya_id": "11"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "330",
+    "fields": { "name": "Ain Amguel",
+    "wilaya_id": "11"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "331",
+    "fields": { "name": "Idles",
+    "wilaya_id": "11"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "332",
+    "fields": { "name": "El-Houidjbet",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "333",
+    "fields": { "name": "El-Aouinet",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "334",
+    "fields": { "name": "Ferkane",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "335",
+    "fields": { "name": "Negrine",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "336",
+    "fields": { "name": "Bir Mokkadem",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "337",
+    "fields": { "name": "Bir Dheheb",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "338",
+    "fields": { "name": "Saf Saf El Ouesra",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "339",
+    "fields": { "name": "Guorriguer",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "340",
+    "fields": { "name": "Bekkaria",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "341",
+    "fields": { "name": "Boulhaf Dyr",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "342",
+    "fields": { "name": "Oum Ali",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "343",
+    "fields": { "name": "Boukhadra",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "344",
+    "fields": { "name": "El Malabiod",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "345",
+    "fields": { "name": "Ouenza",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "346",
+    "fields": { "name": "El Meridj",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "347",
+    "fields": { "name": "Ain Zerga",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "348",
+    "fields": { "name": "Stah Guentis",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "349",
+    "fields": { "name": "El Ogla",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "350",
+    "fields": { "name": "El Mezeraa",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "351",
+    "fields": { "name": "Bedjene",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "352",
+    "fields": { "name": "Morsott",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "353",
+    "fields": { "name": "Telidjen",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "354",
+    "fields": { "name": "Cheria",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "355",
+    "fields": { "name": "El Ogla El Malha",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "356",
+    "fields": { "name": "Bir-El-Ater",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "357",
+    "fields": { "name": "Tebessa",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "358",
+    "fields": { "name": "Hammamet",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "359",
+    "fields": { "name": "El Kouif",
+    "wilaya_id": "12"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "360",
+    "fields": { "name": "Bab El Assa",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "361",
+    "fields": { "name": "Terny Beni Hediel",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "362",
+    "fields": { "name": "Mansourah",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "363",
+    "fields": { "name": "Beni Mester",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "364",
+    "fields": { "name": "Ain Ghoraba",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "365",
+    "fields": { "name": "Chetouane",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "366",
+    "fields": { "name": "Amieur",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "367",
+    "fields": { "name": "Ain Fezza",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "368",
+    "fields": { "name": "Honnaine",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "369",
+    "fields": { "name": "Beni Khellad",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "370",
+    "fields": { "name": "Sidi Djillali",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "371",
+    "fields": { "name": "Bouihi",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "372",
+    "fields": { "name": "Nedroma",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "373",
+    "fields": { "name": "M'sirda Fouaga",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "374",
+    "fields": { "name": "Marsa Ben M'hidi",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "375",
+    "fields": { "name": "Sidi Medjahed",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "376",
+    "fields": { "name": "Beni Boussaid",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "377",
+    "fields": { "name": "Sebdou",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "378",
+    "fields": { "name": "El Gor",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "379",
+    "fields": { "name": "El Aricha",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "380",
+    "fields": { "name": "Bouhlou",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "381",
+    "fields": { "name": "Maghnia",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "382",
+    "fields": { "name": "Hammam Boughrara",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "383",
+    "fields": { "name": "Zenata",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "384",
+    "fields": { "name": "Ouled Riyah",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "385",
+    "fields": { "name": "Hennaya",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "386",
+    "fields": { "name": "Sidi Abdelli",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "387",
+    "fields": { "name": "Souk Tleta",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "388",
+    "fields": { "name": "Bensekrane",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "389",
+    "fields": { "name": "Fellaoucene",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "390",
+    "fields": { "name": "Ain Kebira",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "391",
+    "fields": { "name": "Ain Fetah",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "392",
+    "fields": { "name": "Tlemcen",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "393",
+    "fields": { "name": "Ain Nehala",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "394",
+    "fields": { "name": "Ain Tellout",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "395",
+    "fields": { "name": "Ain Youcef",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "396",
+    "fields": { "name": "Beni Ouarsous",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "397",
+    "fields": { "name": "El Fehoul",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "398",
+    "fields": { "name": "Remchi",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "399",
+    "fields": { "name": "Sebbaa Chioukh",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "400",
+    "fields": { "name": "Souani",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "401",
+    "fields": { "name": "Sabra",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "402",
+    "fields": { "name": "Dar Yaghmoracen",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "403",
+    "fields": { "name": "Ghazaouet",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "404",
+    "fields": { "name": "Souahlia",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "405",
+    "fields": { "name": "Tianet",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "406",
+    "fields": { "name": "Beni Smiel",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "407",
+    "fields": { "name": "Oued Lakhdar",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "408",
+    "fields": { "name": "Ouled Mimoun",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "409",
+    "fields": { "name": "Beni Bahdel",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "410",
+    "fields": { "name": "Beni Snous",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "411",
+    "fields": { "name": "Azail",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "412",
+    "fields": { "name": "Djebala",
+    "wilaya_id": "13"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "413",
+    "fields": { "name": "Mahdia",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "414",
+    "fields": { "name": "Ain Dzarit",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "415",
+    "fields": { "name": "Sebaine",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "416",
+    "fields": { "name": "Faidja",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "417",
+    "fields": { "name": "Si Abdelghani",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "418",
+    "fields": { "name": "Sougueur",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "419",
+    "fields": { "name": "Tousnina",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "420",
+    "fields": { "name": "Meghila",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "421",
+    "fields": { "name": "Sebt",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "422",
+    "fields": { "name": "Sidi Hosni",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "423",
+    "fields": { "name": "Ain El Hadid",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "424",
+    "fields": { "name": "Frenda",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "425",
+    "fields": { "name": "Takhemaret",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "426",
+    "fields": { "name": "Ain Kermes",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "427",
+    "fields": { "name": "Djebilet Rosfa",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "428",
+    "fields": { "name": "Madna",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "429",
+    "fields": { "name": "Medrissa",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "430",
+    "fields": { "name": "Sidi Abderrahmane",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "431",
+    "fields": { "name": "Ksar Chellala",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "432",
+    "fields": { "name": "Guertoufa",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "433",
+    "fields": { "name": "Serghine",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "434",
+    "fields": { "name": "Zmalet El Emir Abdelkade",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "435",
+    "fields": { "name": "Oued Lilli",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "436",
+    "fields": { "name": "Sidi Ali Mellal",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "437",
+    "fields": { "name": "Djillali Ben Amar",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "438",
+    "fields": { "name": "Mechraa Safa",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "439",
+    "fields": { "name": "Tagdempt",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "440",
+    "fields": { "name": "Bougara",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "441",
+    "fields": { "name": "Hamadia",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "442",
+    "fields": { "name": "Rechaiga",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "443",
+    "fields": { "name": "Tidda",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "444",
+    "fields": { "name": "Nadorah",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "445",
+    "fields": { "name": "Tiaret",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "446",
+    "fields": { "name": "Medroussa",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "447",
+    "fields": { "name": "Mellakou",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "448",
+    "fields": { "name": "Sidi Bakhti",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "449",
+    "fields": { "name": "Ain Deheb",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "450",
+    "fields": { "name": "Chehaima",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "451",
+    "fields": { "name": "Naima",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "452",
+    "fields": { "name": "Ain Bouchekif",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "453",
+    "fields": { "name": "Dahmouni",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "454",
+    "fields": { "name": "Rahouia",
+    "wilaya_id": "14"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "455",
+    "fields": { "name": "Mizrana",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "456",
+    "fields": { "name": "Idjeur",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "457",
+    "fields": { "name": "Beni-Douala",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "458",
+    "fields": { "name": "Beni-Zikki",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "459",
+    "fields": { "name": "Illoula Oumalou",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "460",
+    "fields": { "name": "Agouni-Gueghrane",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "461",
+    "fields": { "name": "Ait Bouaddou",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "462",
+    "fields": { "name": "Ouadhias",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "463",
+    "fields": { "name": "Tizi N'tleta",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "464",
+    "fields": { "name": "Aghribs",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "465",
+    "fields": { "name": "Ait-Chafaa",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "466",
+    "fields": { "name": "Akerrou",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "467",
+    "fields": { "name": "Azeffoun",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "468",
+    "fields": { "name": "Iflissen",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "469",
+    "fields": { "name": "Tigzirt",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "470",
+    "fields": { "name": "Assi-Youcef",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "471",
+    "fields": { "name": "Boghni",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "472",
+    "fields": { "name": "Bounouh",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "473",
+    "fields": { "name": "Mechtras",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "474",
+    "fields": { "name": "Draa-Ben-Khedda",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "475",
+    "fields": { "name": "Sidi Namane",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "476",
+    "fields": { "name": "Tadmait",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "477",
+    "fields": { "name": "Tirmitine",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "478",
+    "fields": { "name": "Ait Boumahdi",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "479",
+    "fields": { "name": "Ait-Toudert",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "480",
+    "fields": { "name": "Beni-Aissi",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "481",
+    "fields": { "name": "Ouacif",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "482",
+    "fields": { "name": "Ait Khellili",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "483",
+    "fields": { "name": "Mekla",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "484",
+    "fields": { "name": "Souama",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "485",
+    "fields": { "name": "Beni-Yenni",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "486",
+    "fields": { "name": "Iboudrarene",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "487",
+    "fields": { "name": "Tizi-Ouzou",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "488",
+    "fields": { "name": "Abi-Youcef",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "489",
+    "fields": { "name": "Ain-El-Hammam",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "490",
+    "fields": { "name": "Ait-Yahia",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "491",
+    "fields": { "name": "Akbil",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "492",
+    "fields": { "name": "Boudjima",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "493",
+    "fields": { "name": "Makouda",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "494",
+    "fields": { "name": "Ain-Zaouia",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "495",
+    "fields": { "name": "Ait Yahia Moussa",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "496",
+    "fields": { "name": "Draa-El-Mizan",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "497",
+    "fields": { "name": "Frikat",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "498",
+    "fields": { "name": "M'kira",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "499",
+    "fields": { "name": "Tizi-Gheniff",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "500",
+    "fields": { "name": "Yatafene",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "501",
+    "fields": { "name": "Illilten",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "502",
+    "fields": { "name": "Imsouhal",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "503",
+    "fields": { "name": "Azazga",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "504",
+    "fields": { "name": "Freha",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "505",
+    "fields": { "name": "Ifigha",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "506",
+    "fields": { "name": "Yakourene",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "507",
+    "fields": { "name": "Zekri",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "508",
+    "fields": { "name": "Ait Aggouacha",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "509",
+    "fields": { "name": "Irdjen",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "510",
+    "fields": { "name": "Larbaa Nath Irathen",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "511",
+    "fields": { "name": "Ait-Oumalou",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "512",
+    "fields": { "name": "Tizi-Rached",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "513",
+    "fields": { "name": "Ait-Aissa-Mimoun",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "514",
+    "fields": { "name": "Ouaguenoun",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "515",
+    "fields": { "name": "Timizart",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "516",
+    "fields": { "name": "Maatkas",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "517",
+    "fields": { "name": "Souk-El-Tenine",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "518",
+    "fields": { "name": "Ait-Mahmoud",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "519",
+    "fields": { "name": "Beni Zmenzer",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "520",
+    "fields": { "name": "Iferhounene",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "521",
+    "fields": { "name": "Bouzeguene",
+    "wilaya_id": "15"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "522",
+    "fields": { "name": "Hussein Dey",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "523",
+    "fields": { "name": "Les Eucalyptus",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "524",
+    "fields": { "name": "Sidi Moussa",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "525",
+    "fields": { "name": "Kouba",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "526",
+    "fields": { "name": "Mohamed Belouzdad",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "527",
+    "fields": { "name": "Ain Taya",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "528",
+    "fields": { "name": "Bab Ezzouar",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "529",
+    "fields": { "name": "Bordj El Kiffan",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "530",
+    "fields": { "name": "Dar El Beida",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "531",
+    "fields": { "name": "El Marsa",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "532",
+    "fields": { "name": "Mohammadia",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "533",
+    "fields": { "name": "Bir Touta",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "534",
+    "fields": { "name": "Ouled Chebel",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "535",
+    "fields": { "name": "Tessala El Merdja",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "536",
+    "fields": { "name": "Herraoua",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "537",
+    "fields": { "name": "Reghaia",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "538",
+    "fields": { "name": "Rouiba",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "539",
+    "fields": { "name": "Maalma",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "540",
+    "fields": { "name": "Rahmania",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "541",
+    "fields": { "name": "Souidania",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "542",
+    "fields": { "name": "Staoueli",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "543",
+    "fields": { "name": "Zeralda",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "544",
+    "fields": { "name": "Baba Hassen",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "545",
+    "fields": { "name": "Douira",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "546",
+    "fields": { "name": "Draria",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "547",
+    "fields": { "name": "El Achour",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "548",
+    "fields": { "name": "Khraissia",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "549",
+    "fields": { "name": "Ain Benian",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "550",
+    "fields": { "name": "Cheraga",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "551",
+    "fields": { "name": "Dely Ibrahim",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "552",
+    "fields": { "name": "Hammamet",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "553",
+    "fields": { "name": "Ouled Fayet",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "554",
+    "fields": { "name": "Alger Centre",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "555",
+    "fields": { "name": "El Madania",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "556",
+    "fields": { "name": "El Mouradia",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "557",
+    "fields": { "name": "Sidi M'hamed",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "558",
+    "fields": { "name": "Sehaoula",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "559",
+    "fields": { "name": "Bologhine Ibnou Ziri",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "560",
+    "fields": { "name": "Casbah",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "561",
+    "fields": { "name": "Oued Koriche",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "562",
+    "fields": { "name": "Rais Hamidou",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "563",
+    "fields": { "name": "Bir Mourad Rais",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "564",
+    "fields": { "name": "Birkhadem",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "565",
+    "fields": { "name": "Djasr Kasentina",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "566",
+    "fields": { "name": "Hydra",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "567",
+    "fields": { "name": "El Magharia",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "568",
+    "fields": { "name": "Ben Aknoun",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "569",
+    "fields": { "name": "Beni Messous",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "570",
+    "fields": { "name": "Bouzareah",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "571",
+    "fields": { "name": "El Biar",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "572",
+    "fields": { "name": "Bachedjerah",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "573",
+    "fields": { "name": "Bourouba",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "574",
+    "fields": { "name": "El Harrach",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "575",
+    "fields": { "name": "Oued Smar",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "576",
+    "fields": { "name": "Baraki",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "577",
+    "fields": { "name": "Bordj El Bahri",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "578",
+    "fields": { "name": "Bab El Oued",
+    "wilaya_id": "16"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "579",
+    "fields": { "name": "Hassi El Euch",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "580",
+    "fields": { "name": "Ain El Ibel",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "581",
+    "fields": { "name": "El Guedid",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "582",
+    "fields": { "name": "Charef",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "583",
+    "fields": { "name": "Benyagoub",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "584",
+    "fields": { "name": "Sidi Baizid",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "585",
+    "fields": { "name": "M'liliha",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "586",
+    "fields": { "name": "Dar Chioukh",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "587",
+    "fields": { "name": "Taadmit",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "588",
+    "fields": { "name": "Had Sahary",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "589",
+    "fields": { "name": "Bouira Lahdab",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "590",
+    "fields": { "name": "Ain Fekka",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "591",
+    "fields": { "name": "Sidi Laadjel",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "592",
+    "fields": { "name": "Hassi Fedoul",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "593",
+    "fields": { "name": "El Khemis",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "594",
+    "fields": { "name": "Selmana",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "595",
+    "fields": { "name": "Sed Rahal",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "596",
+    "fields": { "name": "Messaad",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "597",
+    "fields": { "name": "Guettara",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "598",
+    "fields": { "name": "Deldoul",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "599",
+    "fields": { "name": "Zaccar",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "600",
+    "fields": { "name": "Douis",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "601",
+    "fields": { "name": "El Idrissia",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "602",
+    "fields": { "name": "Ain Chouhada",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "603",
+    "fields": { "name": "Djelfa",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "604",
+    "fields": { "name": "Birine",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "605",
+    "fields": { "name": "Oum Laadham",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "606",
+    "fields": { "name": "Faidh El Botma",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "607",
+    "fields": { "name": "Amourah",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "608",
+    "fields": { "name": "Zaafrane",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "609",
+    "fields": { "name": "Guernini",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "610",
+    "fields": { "name": "Ain Oussera",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "611",
+    "fields": { "name": "Benhar",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "612",
+    "fields": { "name": "Ain Maabed",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "613",
+    "fields": { "name": "Hassi Bahbah",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "614",
+    "fields": { "name": "Moudjebara",
+    "wilaya_id": "17"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "615",
+    "fields": { "name": "Jijel",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "616",
+    "fields": { "name": "El Aouana",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "617",
+    "fields": { "name": "Selma Benziada",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "618",
+    "fields": { "name": "Erraguene Souissi",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "619",
+    "fields": { "name": "Boussif Ouled Askeur",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "620",
+    "fields": { "name": "Ziama Mansouriah",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "621",
+    "fields": { "name": "Chahna",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "622",
+    "fields": { "name": "Emir Abdelkader",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "623",
+    "fields": { "name": "Oudjana",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "624",
+    "fields": { "name": "Taher",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "625",
+    "fields": { "name": "Chekfa",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "626",
+    "fields": { "name": "El Kennar Nouchfi",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "627",
+    "fields": { "name": "Sidi Abdelaziz",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "628",
+    "fields": { "name": "El Milia",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "629",
+    "fields": { "name": "Ouled Yahia Khadrouch",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "630",
+    "fields": { "name": "Ouled Rabah",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "631",
+    "fields": { "name": "Sidi Marouf",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "632",
+    "fields": { "name": "Ghebala",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "633",
+    "fields": { "name": "Settara",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "634",
+    "fields": { "name": "Bouraoui Belhadef",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "635",
+    "fields": { "name": "El Ancer",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "636",
+    "fields": { "name": "Khiri Oued Adjoul",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "637",
+    "fields": { "name": "Djimla",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "638",
+    "fields": { "name": "Kaous",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "639",
+    "fields": { "name": "Texenna",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "640",
+    "fields": { "name": "Bordj T'har",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "641",
+    "fields": { "name": "Boudria Beniyadjis",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "642",
+    "fields": { "name": "Djemaa Beni Habibi",
+    "wilaya_id": "18"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "643",
+    "fields": { "name": "Rosfa",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "644",
+    "fields": { "name": "Oued El Bared",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "645",
+    "fields": { "name": "Tizi N'bechar",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "646",
+    "fields": { "name": "Mezloug",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "647",
+    "fields": { "name": "Guellal",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "648",
+    "fields": { "name": "Kasr El Abtal",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "649",
+    "fields": { "name": "Ouled Si Ahmed",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "650",
+    "fields": { "name": "Ait Naoual Mezada",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "651",
+    "fields": { "name": "Ait-Tizi",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "652",
+    "fields": { "name": "Bouandas",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "653",
+    "fields": { "name": "Bousselam",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "654",
+    "fields": { "name": "Hamam Soukhna",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "655",
+    "fields": { "name": "Taya",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "656",
+    "fields": { "name": "Tella",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "657",
+    "fields": { "name": "Ain Oulmene",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "658",
+    "fields": { "name": "Boutaleb",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "659",
+    "fields": { "name": "Hamma",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "660",
+    "fields": { "name": "Ouled Tebben",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "661",
+    "fields": { "name": "Amoucha",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "662",
+    "fields": { "name": "Salah Bey",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "663",
+    "fields": { "name": "Ain Azel",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "664",
+    "fields": { "name": "Ain Lahdjar",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "665",
+    "fields": { "name": "Beidha Bordj",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "666",
+    "fields": { "name": "Bir Haddada",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "667",
+    "fields": { "name": "Guenzet",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "668",
+    "fields": { "name": "Harbil",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "669",
+    "fields": { "name": "Ain-Roua",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "670",
+    "fields": { "name": "Beni Oussine",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "671",
+    "fields": { "name": "El Ouricia",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "672",
+    "fields": { "name": "Bougaa",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "673",
+    "fields": { "name": "Draa-Kebila",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "674",
+    "fields": { "name": "Hammam Guergour",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "675",
+    "fields": { "name": "Setif",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "676",
+    "fields": { "name": "Ain El Kebira",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "677",
+    "fields": { "name": "Dehamcha",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "678",
+    "fields": { "name": "Ouled Addouane",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "679",
+    "fields": { "name": "Ain-Sebt",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "680",
+    "fields": { "name": "Beni-Aziz",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "681",
+    "fields": { "name": "Maaouia",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "682",
+    "fields": { "name": "Bellaa",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "683",
+    "fields": { "name": "Bir-El-Arch",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "684",
+    "fields": { "name": "El-Ouldja",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "685",
+    "fields": { "name": "Tachouda",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "686",
+    "fields": { "name": "Tala-Ifacene",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "687",
+    "fields": { "name": "Serdj-El-Ghoul",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "688",
+    "fields": { "name": "Guidjel",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "689",
+    "fields": { "name": "Ouled Sabor",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "690",
+    "fields": { "name": "Bazer-Sakra",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "691",
+    "fields": { "name": "El Eulma",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "692",
+    "fields": { "name": "Guelta Zerka",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "693",
+    "fields": { "name": "Beni Fouda",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "694",
+    "fields": { "name": "Djemila",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "695",
+    "fields": { "name": "Ain-Legradj",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "696",
+    "fields": { "name": "Beni Chebana",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "697",
+    "fields": { "name": "Beni Ourtilane",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "698",
+    "fields": { "name": "Beni-Mouhli",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "699",
+    "fields": { "name": "Ain Abessa",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "700",
+    "fields": { "name": "Ain Arnat",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "701",
+    "fields": { "name": "Babor",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "702",
+    "fields": { "name": "Maouaklane",
+    "wilaya_id": "19"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "703",
+    "fields": { "name": "Saida",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "704",
+    "fields": { "name": "Tircine",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "705",
+    "fields": { "name": "Ouled Brahim",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "706",
+    "fields": { "name": "Ain Soltane",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "707",
+    "fields": { "name": "Maamora",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "708",
+    "fields": { "name": "El Hassasna",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "709",
+    "fields": { "name": "Ain Sekhouna",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "710",
+    "fields": { "name": "Sidi Boubekeur",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "711",
+    "fields": { "name": "Ouled Khaled",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "712",
+    "fields": { "name": "Hounet",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "713",
+    "fields": { "name": "Youb",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "714",
+    "fields": { "name": "Doui Thabet",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "715",
+    "fields": { "name": "Sidi Ahmed",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "716",
+    "fields": { "name": "Moulay Larbi",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "717",
+    "fields": { "name": "Ain El Hadjar",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "718",
+    "fields": { "name": "Sidi Amar",
+    "wilaya_id": "20"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "719",
+    "fields": { "name": "Ain Bouziane",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "720",
+    "fields": { "name": "Salah Bouchaour",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "721",
+    "fields": { "name": "El Hadaiek",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "722",
+    "fields": { "name": "Zerdezas",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "723",
+    "fields": { "name": "Ouled Habbaba",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "724",
+    "fields": { "name": "Beni Oulbane",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "725",
+    "fields": { "name": "Sidi Mezghiche",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "726",
+    "fields": { "name": "Beni Bechir",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "727",
+    "fields": { "name": "Ramdane Djamel",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "728",
+    "fields": { "name": "Bin El Ouiden",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "729",
+    "fields": { "name": "Emjez Edchich",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "730",
+    "fields": { "name": "Tamalous",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "731",
+    "fields": { "name": "Ain Kechra",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "732",
+    "fields": { "name": "Ouldja Boulbalout",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "733",
+    "fields": { "name": "Oum Toub",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "734",
+    "fields": { "name": "El Ghedir",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "735",
+    "fields": { "name": "Kerkara",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "736",
+    "fields": { "name": "El Arrouch",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "737",
+    "fields": { "name": "Zitouna",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "738",
+    "fields": { "name": "Ouled Attia",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "739",
+    "fields": { "name": "Oued Zhour",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "740",
+    "fields": { "name": "Collo",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "741",
+    "fields": { "name": "Cheraia",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "742",
+    "fields": { "name": "Beni Zid",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "743",
+    "fields": { "name": "Khenag Maoune",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "744",
+    "fields": { "name": "El Marsa",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "745",
+    "fields": { "name": "Ben Azzouz",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "746",
+    "fields": { "name": "Bekkouche Lakhdar",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "747",
+    "fields": { "name": "Es Sebt",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "748",
+    "fields": { "name": "Ain Charchar",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "749",
+    "fields": { "name": "Azzaba",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "750",
+    "fields": { "name": "Bouchetata",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "751",
+    "fields": { "name": "Filfila",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "752",
+    "fields": { "name": "Hammadi Krouma",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "753",
+    "fields": { "name": "Skikda",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "754",
+    "fields": { "name": "Ain Zouit",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "755",
+    "fields": { "name": "Djendel Saadi Mohamed",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "756",
+    "fields": { "name": "Kanoua",
+    "wilaya_id": "21"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "757",
+    "fields": { "name": "Sidi Ali Benyoub",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "758",
+    "fields": { "name": "Moulay Slissen",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "759",
+    "fields": { "name": "El Hacaiba",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "760",
+    "fields": { "name": "Ain Tindamine",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "761",
+    "fields": { "name": "Tenira",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "762",
+    "fields": { "name": "Oued Sefioun",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "763",
+    "fields": { "name": "Hassi Dahou",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "764",
+    "fields": { "name": "Oued Taourira",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "765",
+    "fields": { "name": "Benachiba Chelia",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "766",
+    "fields": { "name": "Sidi Yacoub",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "767",
+    "fields": { "name": "Sidi Lahcene",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "768",
+    "fields": { "name": "Sidi Khaled",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "769",
+    "fields": { "name": "Tabia",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "770",
+    "fields": { "name": "Sidi Brahim",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "771",
+    "fields": { "name": "Amarnas",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "772",
+    "fields": { "name": "Boukhanefis",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "773",
+    "fields": { "name": "Hassi Zahana",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "774",
+    "fields": { "name": "Chetouane Belaila",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "775",
+    "fields": { "name": "Ben Badis",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "776",
+    "fields": { "name": "Bedrabine El Mokrani",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "777",
+    "fields": { "name": "Sfisef",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "778",
+    "fields": { "name": "M'cid",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "779",
+    "fields": { "name": "Boudjebaa El Bordj",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "780",
+    "fields": { "name": "Ain- Adden",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "781",
+    "fields": { "name": "Sidi Hamadouche",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "782",
+    "fields": { "name": "Sidi Chaib",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "783",
+    "fields": { "name": "Makedra",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "784",
+    "fields": { "name": "Ain El Berd",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "785",
+    "fields": { "name": "Redjem Demouche",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "786",
+    "fields": { "name": "Ras El Ma",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "787",
+    "fields": { "name": "Oued Sebaa",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "788",
+    "fields": { "name": "Marhoum",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "789",
+    "fields": { "name": "Sidi Bel-Abbes",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "790",
+    "fields": { "name": "Ain Thrid",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "791",
+    "fields": { "name": "Sehala Thaoura",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "792",
+    "fields": { "name": "Tessala",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "793",
+    "fields": { "name": "Belarbi",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "794",
+    "fields": { "name": "Mostefa Ben Brahim",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "795",
+    "fields": { "name": "Tilmouni",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "796",
+    "fields": { "name": "Zerouala",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "797",
+    "fields": { "name": "Dhaya",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "798",
+    "fields": { "name": "Mezaourou",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "799",
+    "fields": { "name": "Teghalimet",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "800",
+    "fields": { "name": "Telagh",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "801",
+    "fields": { "name": "Ain Kada",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "802",
+    "fields": { "name": "Lamtar",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "803",
+    "fields": { "name": "Sidi Ali Boussidi",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "804",
+    "fields": { "name": "Sidi Dahou Zairs",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "805",
+    "fields": { "name": "Bir El Hammam",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "806",
+    "fields": { "name": "Merine",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "807",
+    "fields": { "name": "Tefessour",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "808",
+    "fields": { "name": "Taoudmout",
+    "wilaya_id": "22"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "809",
+    "fields": { "name": "Annaba",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "810",
+    "fields": { "name": "Seraidi",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "811",
+    "fields": { "name": "Berrahal",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "812",
+    "fields": { "name": "Oued El Aneb",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "813",
+    "fields": { "name": "El Hadjar",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "814",
+    "fields": { "name": "Sidi Amar",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "815",
+    "fields": { "name": "El Bouni",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "816",
+    "fields": { "name": "Ain El Berda",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "817",
+    "fields": { "name": "Cheurfa",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "818",
+    "fields": { "name": "El Eulma",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "819",
+    "fields": { "name": "Treat",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "820",
+    "fields": { "name": "Chetaibi",
+    "wilaya_id": "23"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "821",
+    "fields": { "name": "Nechmaya",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "822",
+    "fields": { "name": "Bou Hamdane",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "823",
+    "fields": { "name": "Hammam Debagh",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "824",
+    "fields": { "name": "Roknia",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "825",
+    "fields": { "name": "Dahouara",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "826",
+    "fields": { "name": "Hammam N'bail",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "827",
+    "fields": { "name": "Guelma",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "828",
+    "fields": { "name": "Boumahra Ahmed",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "829",
+    "fields": { "name": "Ain Ben Beida",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "830",
+    "fields": { "name": "Bouchegouf",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "831",
+    "fields": { "name": "Medjez Sfa",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "832",
+    "fields": { "name": "Oued Ferragha",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "833",
+    "fields": { "name": "Bouati Mahmoud",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "834",
+    "fields": { "name": "El Fedjoudj",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "835",
+    "fields": { "name": "Heliopolis",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "836",
+    "fields": { "name": "Medjez Amar",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "837",
+    "fields": { "name": "Houari Boumedienne",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "838",
+    "fields": { "name": "Ras El Agba",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "839",
+    "fields": { "name": "Sellaoua Announa",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "840",
+    "fields": { "name": "Djeballah Khemissi",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "841",
+    "fields": { "name": "Bordj Sabath",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "842",
+    "fields": { "name": "Oued Zenati",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "843",
+    "fields": { "name": "Ain Regada",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "844",
+    "fields": { "name": "Ain Larbi",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "845",
+    "fields": { "name": "Ain Makhlouf",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "846",
+    "fields": { "name": "Tamlouka",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "847",
+    "fields": { "name": "Ain Sandel",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "848",
+    "fields": { "name": "Bou Hachana",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "849",
+    "fields": { "name": "Khezaras",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "850",
+    "fields": { "name": "Belkheir",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "851",
+    "fields": { "name": "Beni Mezline",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "852",
+    "fields": { "name": "Guelaat Bou Sbaa",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "853",
+    "fields": { "name": "Oued Cheham",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "854",
+    "fields": { "name": "Bendjarah",
+    "wilaya_id": "24"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "855",
+    "fields": { "name": "Didouche Mourad",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "856",
+    "fields": { "name": "Hamma Bouziane",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "857",
+    "fields": { "name": "Beni Hamidane",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "858",
+    "fields": { "name": "Zighoud Youcef",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "859",
+    "fields": { "name": "Ain Smara",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "860",
+    "fields": { "name": "El Khroub",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "861",
+    "fields": { "name": "Ouled Rahmoun",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "862",
+    "fields": { "name": "Ain Abid",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "863",
+    "fields": { "name": "Ben Badis",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "864",
+    "fields": { "name": "Ibn Ziad",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "865",
+    "fields": { "name": "Messaoud Boudjeriou",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "866",
+    "fields": { "name": "Constantine",
+    "wilaya_id": "25"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "867",
+    "fields": { "name": "Ouled Hellal",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "868",
+    "fields": { "name": "Souagui",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "869",
+    "fields": { "name": "Ksar El Boukhari",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "870",
+    "fields": { "name": "M'fatha",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "871",
+    "fields": { "name": "Saneg",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "872",
+    "fields": { "name": "El Azizia",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "873",
+    "fields": { "name": "Maghraoua",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "874",
+    "fields": { "name": "Mihoub",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "875",
+    "fields": { "name": "Bouaiche",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "876",
+    "fields": { "name": "Boughzoul",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "877",
+    "fields": { "name": "Chabounia",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "878",
+    "fields": { "name": "Hannacha",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "879",
+    "fields": { "name": "Ouamri",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "880",
+    "fields": { "name": "Oued Harbil",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "881",
+    "fields": { "name": "Beni Slimane",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "882",
+    "fields": { "name": "Bouaichoune",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "883",
+    "fields": { "name": "Ouled Bouachra",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "884",
+    "fields": { "name": "Si Mahdjoub",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "885",
+    "fields": { "name": "Bouskene",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "886",
+    "fields": { "name": "Sidi Rabie",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "887",
+    "fields": { "name": "Berrouaghia",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "888",
+    "fields": { "name": "Ouled Deid",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "889",
+    "fields": { "name": "Rebaia",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "890",
+    "fields": { "name": "Medjebar",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "891",
+    "fields": { "name": "Tletat Ed Douair",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "892",
+    "fields": { "name": "Zoubiria",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "893",
+    "fields": { "name": "Aissaouia",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "894",
+    "fields": { "name": "El Haoudane",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "895",
+    "fields": { "name": "Mezerana",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "896",
+    "fields": { "name": "Tablat",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "897",
+    "fields": { "name": "Boghar",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "898",
+    "fields": { "name": "Seghouane",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "899",
+    "fields": { "name": "Draa Esmar",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "900",
+    "fields": { "name": "Medea",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "901",
+    "fields": { "name": "Tamesguida",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "902",
+    "fields": { "name": "Ben Chicao",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "903",
+    "fields": { "name": "El Hamdania",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "904",
+    "fields": { "name": "Ouzera",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "905",
+    "fields": { "name": "Tizi Mahdi",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "906",
+    "fields": { "name": "Ain Boucif",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "907",
+    "fields": { "name": "El Ouinet",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "908",
+    "fields": { "name": "Kef Lakhdar",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "909",
+    "fields": { "name": "Ouled Emaaraf",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "910",
+    "fields": { "name": "Sidi Demed",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "911",
+    "fields": { "name": "Baata",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "912",
+    "fields": { "name": "El Omaria",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "913",
+    "fields": { "name": "Ouled Brahim",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "914",
+    "fields": { "name": "Bir Ben Laabed",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "915",
+    "fields": { "name": "El Guelbelkebir",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "916",
+    "fields": { "name": "Sedraya",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "917",
+    "fields": { "name": "Ain Ouksir",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "918",
+    "fields": { "name": "Chelalet El Adhaoura",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "919",
+    "fields": { "name": "Cheniguel",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "920",
+    "fields": { "name": "Tafraout",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "921",
+    "fields": { "name": "Bouchrahil",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "922",
+    "fields": { "name": "Khams Djouamaa",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "923",
+    "fields": { "name": "Sidi Naamane",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "924",
+    "fields": { "name": "Aziz",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "925",
+    "fields": { "name": "Derrag",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "926",
+    "fields": { "name": "Oum El Djellil",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "927",
+    "fields": { "name": "Djouab",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "928",
+    "fields": { "name": "Sidi Zahar",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "929",
+    "fields": { "name": "Sidi Ziane",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "930",
+    "fields": { "name": "Ouled Antar",
+    "wilaya_id": "26"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "931",
+    "fields": { "name": "Fornaka",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "932",
+    "fields": { "name": "Oued El Kheir",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "933",
+    "fields": { "name": "Hassiane",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "934",
+    "fields": { "name": "Hassi Mameche",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "935",
+    "fields": { "name": "Mazagran",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "936",
+    "fields": { "name": "Stidia",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "937",
+    "fields": { "name": "Ain-Tedles",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "938",
+    "fields": { "name": "Sidi Belaattar",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "939",
+    "fields": { "name": "Sour",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "940",
+    "fields": { "name": "Ain-Boudinar",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "941",
+    "fields": { "name": "Kheir-Eddine",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "942",
+    "fields": { "name": "Sayada",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "943",
+    "fields": { "name": "Sidi Ali",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "944",
+    "fields": { "name": "Tazgait",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "945",
+    "fields": { "name": "Benabdelmalek Ramdane",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "946",
+    "fields": { "name": "Mostaganem",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "947",
+    "fields": { "name": "Hadjadj",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "948",
+    "fields": { "name": "Sidi-Lakhdar",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "949",
+    "fields": { "name": "Achaacha",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "950",
+    "fields": { "name": "Khadra",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "951",
+    "fields": { "name": "Nekmaria",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "952",
+    "fields": { "name": "Ouled Boughalem",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "953",
+    "fields": { "name": "Bouguirat",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "954",
+    "fields": { "name": "Safsaf",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "955",
+    "fields": { "name": "Sirat",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "956",
+    "fields": { "name": "Souaflia",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "957",
+    "fields": { "name": "Ain-Sidi Cherif",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "958",
+    "fields": { "name": "Mansourah",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "959",
+    "fields": { "name": "Mesra",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "960",
+    "fields": { "name": "Touahria",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "961",
+    "fields": { "name": "Ain-Nouissy",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "962",
+    "fields": { "name": "Ouled-Maalah",
+    "wilaya_id": "27"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "963",
+    "fields": { "name": "Chellal",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "964",
+    "fields": { "name": "Ouled Madhi",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "965",
+    "fields": { "name": "Khettouti Sed-El-Jir",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "966",
+    "fields": { "name": "Belaiba",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "967",
+    "fields": { "name": "Berhoum",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "968",
+    "fields": { "name": "Dehahna",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "969",
+    "fields": { "name": "Magra",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "970",
+    "fields": { "name": "Beni Ilmane",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "971",
+    "fields": { "name": "Bouti Sayeh",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "972",
+    "fields": { "name": "Sidi Aissa",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "973",
+    "fields": { "name": "Ain El Hadjel",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "974",
+    "fields": { "name": "Sidi Hadjeres",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "975",
+    "fields": { "name": "Bou Saada",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "976",
+    "fields": { "name": "El Hamel",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "977",
+    "fields": { "name": "Oulteme",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "978",
+    "fields": { "name": "Benzouh",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "979",
+    "fields": { "name": "Ouled Sidi Brahim",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "980",
+    "fields": { "name": "Sidi Ameur",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "981",
+    "fields": { "name": "Tamsa",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "982",
+    "fields": { "name": "Ben Srour",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "983",
+    "fields": { "name": "Mohamed Boudiaf",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "984",
+    "fields": { "name": "Ouled Slimane",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "985",
+    "fields": { "name": "Zarzour",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "986",
+    "fields": { "name": "Ain El Melh",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "987",
+    "fields": { "name": "Ain Fares",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "988",
+    "fields": { "name": "Ain Rich",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "989",
+    "fields": { "name": "Bir Foda",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "990",
+    "fields": { "name": "Sidi M'hamed",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "991",
+    "fields": { "name": "Medjedel",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "992",
+    "fields": { "name": "Menaa",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "993",
+    "fields": { "name": "Djebel Messaad",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "994",
+    "fields": { "name": "Slim",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "995",
+    "fields": { "name": "M'sila",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "996",
+    "fields": { "name": "Hammam Dalaa",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "997",
+    "fields": { "name": "Ouanougha",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "998",
+    "fields": { "name": "Ouled Mansour",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "999",
+    "fields": { "name": "Tarmount",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1000",
+    "fields": { "name": "Maadid",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1001",
+    "fields": { "name": "M'tarfa",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1002",
+    "fields": { "name": "Maarif",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1003",
+    "fields": { "name": "Ouled Derradj",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1004",
+    "fields": { "name": "Souamaa",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1005",
+    "fields": { "name": "El Houamed",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1006",
+    "fields": { "name": "Khoubana",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1007",
+    "fields": { "name": "M'cif",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1008",
+    "fields": { "name": "Ain Khadra",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1009",
+    "fields": { "name": "Ouled Addi Guebala",
+    "wilaya_id": "28"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1010",
+    "fields": { "name": "Oued El Abtal",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1011",
+    "fields": { "name": "Sidi Abdelmoumene",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1012",
+    "fields": { "name": "Sedjerara",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1013",
+    "fields": { "name": "Mohammadia",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1014",
+    "fields": { "name": "Tighennif",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1015",
+    "fields": { "name": "Mocta-Douz",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1016",
+    "fields": { "name": "Ferraguig",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1017",
+    "fields": { "name": "El Ghomri",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1018",
+    "fields": { "name": "Zahana",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1019",
+    "fields": { "name": "El Gaada",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1020",
+    "fields": { "name": "Ras El Ain Amirouche",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1021",
+    "fields": { "name": "Oggaz",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1022",
+    "fields": { "name": "Alaimia",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1023",
+    "fields": { "name": "Sig",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1024",
+    "fields": { "name": "Chorfa",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1025",
+    "fields": { "name": "Bou Henni",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1026",
+    "fields": { "name": "El Mamounia",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1027",
+    "fields": { "name": "El Gueitena",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1028",
+    "fields": { "name": "Ain Fares",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1029",
+    "fields": { "name": "Gharrous",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1030",
+    "fields": { "name": "Benian",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1031",
+    "fields": { "name": "Aouf",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1032",
+    "fields": { "name": "Guerdjoum",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1033",
+    "fields": { "name": "Ain Frass",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1034",
+    "fields": { "name": "Ain Fekan",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1035",
+    "fields": { "name": "Khalouia",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1036",
+    "fields": { "name": "El Menaouer",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1037",
+    "fields": { "name": "El Bordj",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1038",
+    "fields": { "name": "Sidi Boussaid",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1039",
+    "fields": { "name": "Matemore",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1040",
+    "fields": { "name": "Sidi Kada",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1041",
+    "fields": { "name": "Makhda",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1042",
+    "fields": { "name": "Mascara",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1043",
+    "fields": { "name": "Bouhanifia",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1044",
+    "fields": { "name": "Ghriss",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1045",
+    "fields": { "name": "Hacine",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1046",
+    "fields": { "name": "El Keurt",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1047",
+    "fields": { "name": "Froha",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1048",
+    "fields": { "name": "Tizi",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1049",
+    "fields": { "name": "Sehailia",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1050",
+    "fields": { "name": "Maoussa",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1051",
+    "fields": { "name": "Sidi Abdeldjebar",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1052",
+    "fields": { "name": "El Hachem",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1053",
+    "fields": { "name": "Nesmot",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1054",
+    "fields": { "name": "Zelamta",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1055",
+    "fields": { "name": "Ain Ferah",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1056",
+    "fields": { "name": "Oued Taria",
+    "wilaya_id": "29"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1057",
+    "fields": { "name": "Ouargla",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1058",
+    "fields": { "name": "Hassi Messaoud",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1059",
+    "fields": { "name": "Ain Beida",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1060",
+    "fields": { "name": "Hassi Ben Abdellah",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1061",
+    "fields": { "name": "Sidi Khouiled",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1062",
+    "fields": { "name": "El Borma",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1063",
+    "fields": { "name": "Rouissat",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1064",
+    "fields": { "name": "N'goussa",
+    "wilaya_id": "30"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1065",
+    "fields": { "name": "Sidi Chami",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1066",
+    "fields": { "name": "Hassi Mefsoukh",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1067",
+    "fields": { "name": "Bir El Djir",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1068",
+    "fields": { "name": "Hassi Ben Okba",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1069",
+    "fields": { "name": "Gdyel",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1070",
+    "fields": { "name": "Hassi Bounif",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1071",
+    "fields": { "name": "El Kerma",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1072",
+    "fields": { "name": "Es Senia",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1073",
+    "fields": { "name": "Ben Freha",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1074",
+    "fields": { "name": "Arzew",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1075",
+    "fields": { "name": "Sidi Ben Yebka",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1076",
+    "fields": { "name": "Ain Biya",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1077",
+    "fields": { "name": "Bethioua",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1078",
+    "fields": { "name": "Marsat El Hadjadj",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1079",
+    "fields": { "name": "Ain Turk",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1080",
+    "fields": { "name": "Oran",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1081",
+    "fields": { "name": "El Ancor",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1082",
+    "fields": { "name": "Mers El Kebir",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1083",
+    "fields": { "name": "Boufatis",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1084",
+    "fields": { "name": "El Braya",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1085",
+    "fields": { "name": "Oued Tlelat",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1086",
+    "fields": { "name": "Ain Kerma",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1087",
+    "fields": { "name": "Boutlelis",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1088",
+    "fields": { "name": "Messerghin",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1089",
+    "fields": { "name": "Bousfer",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1090",
+    "fields": { "name": "Tafraoui",
+    "wilaya_id": "31"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1091",
+    "fields": { "name": "Ain El Orak",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1092",
+    "fields": { "name": "Krakda",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1093",
+    "fields": { "name": "Sidi Slimane",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1094",
+    "fields": { "name": "Sidi Ameur",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1095",
+    "fields": { "name": "Boualem",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1096",
+    "fields": { "name": "El Bnoud",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1097",
+    "fields": { "name": "Bougtoub",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1098",
+    "fields": { "name": "El Kheiter",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1099",
+    "fields": { "name": "Tousmouline",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1100",
+    "fields": { "name": "Sidi Tiffour",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1101",
+    "fields": { "name": "Stitten",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1102",
+    "fields": { "name": "El Bayadh",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1103",
+    "fields": { "name": "Rogassa",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1104",
+    "fields": { "name": "El Mehara",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1105",
+    "fields": { "name": "Kef El Ahmar",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1106",
+    "fields": { "name": "Brezina",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1107",
+    "fields": { "name": "Ghassoul",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1108",
+    "fields": { "name": "Labiodh Sidi Cheikh",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1109",
+    "fields": { "name": "Boussemghoun",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1110",
+    "fields": { "name": "Cheguig",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1111",
+    "fields": { "name": "Chellala",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1112",
+    "fields": { "name": "Arbaouat",
+    "wilaya_id": "32"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1113",
+    "fields": { "name": "Bordj Omar Driss",
+    "wilaya_id": "33"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1114",
+    "fields": { "name": "Debdeb",
+    "wilaya_id": "33"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1115",
+    "fields": { "name": "In Amenas",
+    "wilaya_id": "33"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1116",
+    "fields": { "name": "Illizi",
+    "wilaya_id": "33"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1117",
+    "fields": { "name": "Elhammadia",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1118",
+    "fields": { "name": "Ouled Sidi-Brahim",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1119",
+    "fields": { "name": "Ain Taghrout",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1120",
+    "fields": { "name": "Tixter",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1121",
+    "fields": { "name": "Belimour",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1122",
+    "fields": { "name": "El Annasseur",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1123",
+    "fields": { "name": "Ghailasa",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1124",
+    "fields": { "name": "Taglait",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1125",
+    "fields": { "name": "Bordj Ghedir",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1126",
+    "fields": { "name": "El Euch",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1127",
+    "fields": { "name": "Sidi-Embarek",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1128",
+    "fields": { "name": "Khelil",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1129",
+    "fields": { "name": "Bir Kasdali",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1130",
+    "fields": { "name": "Tefreg",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1131",
+    "fields": { "name": "El Main",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1132",
+    "fields": { "name": "Djaafra",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1133",
+    "fields": { "name": "Colla",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1134",
+    "fields": { "name": "Teniet En Nasr",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1135",
+    "fields": { "name": "El M'hir",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1136",
+    "fields": { "name": "Ksour",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1137",
+    "fields": { "name": "Mansoura",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1138",
+    "fields": { "name": "Haraza",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1139",
+    "fields": { "name": "Rabta",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1140",
+    "fields": { "name": "El Achir",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1141",
+    "fields": { "name": "Hasnaoua",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1142",
+    "fields": { "name": "Medjana",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1143",
+    "fields": { "name": "Ain Tesra",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1144",
+    "fields": { "name": "Ouled Brahem",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1145",
+    "fields": { "name": "Ras El Oued",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1146",
+    "fields": { "name": "Bordj Zemmoura",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1147",
+    "fields": { "name": "Ouled Dahmane",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1148",
+    "fields": { "name": "Tassamert",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1149",
+    "fields": { "name": "B. B. Arreridj",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1150",
+    "fields": { "name": "Ben Daoud",
+    "wilaya_id": "34"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1151",
+    "fields": { "name": "El Kharrouba",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1152",
+    "fields": { "name": "Dellys",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1153",
+    "fields": { "name": "Ben Choud",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1154",
+    "fields": { "name": "Afir",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1155",
+    "fields": { "name": "Thenia",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1156",
+    "fields": { "name": "Beni Amrane",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1157",
+    "fields": { "name": "Khemis El Khechna",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1158",
+    "fields": { "name": "Ammal",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1159",
+    "fields": { "name": "Timezrit",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1160",
+    "fields": { "name": "Zemmouri",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1161",
+    "fields": { "name": "Larbatache",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1162",
+    "fields": { "name": "Isser",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1163",
+    "fields": { "name": "Chabet El Ameur",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1164",
+    "fields": { "name": "Ouled Aissa",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1165",
+    "fields": { "name": "Naciria",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1166",
+    "fields": { "name": "Bouzegza Keddara",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1167",
+    "fields": { "name": "Souk El Had",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1168",
+    "fields": { "name": "Sidi Daoud",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1169",
+    "fields": { "name": "Baghlia",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1170",
+    "fields": { "name": "Leghata",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1171",
+    "fields": { "name": "Djinet",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1172",
+    "fields": { "name": "Tidjelabine",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1173",
+    "fields": { "name": "Si Mustapha",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1174",
+    "fields": { "name": "Ouled Hedadj",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1175",
+    "fields": { "name": "Ouled Moussa",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1176",
+    "fields": { "name": "Boumerdes",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1177",
+    "fields": { "name": "Corso",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1178",
+    "fields": { "name": "Bordj Menaiel",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1179",
+    "fields": { "name": "Boudouaou",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1180",
+    "fields": { "name": "Boudouaou El Bahri",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1181",
+    "fields": { "name": "Taourga",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1182",
+    "fields": { "name": "Hammedi",
+    "wilaya_id": "35"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1183",
+    "fields": { "name": "Ain El Assel",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1184",
+    "fields": { "name": "Bougous",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1185",
+    "fields": { "name": "El Tarf",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1186",
+    "fields": { "name": "Zitouna",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1187",
+    "fields": { "name": "Besbes",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1188",
+    "fields": { "name": "Ain Kerma",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1189",
+    "fields": { "name": "Bouhadjar",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1190",
+    "fields": { "name": "Hammam Beni Salah",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1191",
+    "fields": { "name": "Oued Zitoun",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1192",
+    "fields": { "name": "Ben M Hidi",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1193",
+    "fields": { "name": "Berrihane",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1194",
+    "fields": { "name": "Chebaita Mokhtar",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1195",
+    "fields": { "name": "Echatt",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1196",
+    "fields": { "name": "El Aioun",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1197",
+    "fields": { "name": "El Kala",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1198",
+    "fields": { "name": "Souarekh",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1199",
+    "fields": { "name": "Zerizer",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1200",
+    "fields": { "name": "Bouteldja",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1201",
+    "fields": { "name": "Chefia",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1202",
+    "fields": { "name": "Lac Des Oiseaux",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1203",
+    "fields": { "name": "Chihani",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1204",
+    "fields": { "name": "Raml Souk",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1205",
+    "fields": { "name": "Asfour",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1206",
+    "fields": { "name": "Drean",
+    "wilaya_id": "36"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1207",
+    "fields": { "name": "Tindouf",
+    "wilaya_id": "37"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1208",
+    "fields": { "name": "Oum El Assel",
+    "wilaya_id": "37"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1209",
+    "fields": { "name": "Khemisti",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1210",
+    "fields": { "name": "Theniet El Had",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1211",
+    "fields": { "name": "Ouled Bessam",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1212",
+    "fields": { "name": "Sidi Boutouchent",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1213",
+    "fields": { "name": "Tissemsilt",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1214",
+    "fields": { "name": "Sidi Lantri",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1215",
+    "fields": { "name": "Beni Chaib",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1216",
+    "fields": { "name": "Beni Lahcene",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1217",
+    "fields": { "name": "Sidi Abed",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1218",
+    "fields": { "name": "Sidi Slimane",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1219",
+    "fields": { "name": "Boucaid",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1220",
+    "fields": { "name": "Larbaa",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1221",
+    "fields": { "name": "Lazharia",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1222",
+    "fields": { "name": "Lardjem",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1223",
+    "fields": { "name": "Melaab",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1224",
+    "fields": { "name": "Layoune",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1225",
+    "fields": { "name": "Tamellahet",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1226",
+    "fields": { "name": "Youssoufia",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1227",
+    "fields": { "name": "Bordj El Emir Abdelkader",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1228",
+    "fields": { "name": "Ammari",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1229",
+    "fields": { "name": "Maacem",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1230",
+    "fields": { "name": "Bordj Bounaama",
+    "wilaya_id": "38"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1231",
+    "fields": { "name": "Douar El Maa",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1232",
+    "fields": { "name": "El Ogla",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1233",
+    "fields": { "name": "Magrane",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1234",
+    "fields": { "name": "Sidi Aoun",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1235",
+    "fields": { "name": "Mih Ouansa",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1236",
+    "fields": { "name": "Kouinine",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1237",
+    "fields": { "name": "Bayadha",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1238",
+    "fields": { "name": "Nakhla",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1239",
+    "fields": { "name": "Robbah",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1240",
+    "fields": { "name": "Guemar",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1241",
+    "fields": { "name": "Ben Guecha",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1242",
+    "fields": { "name": "Ourmes",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1243",
+    "fields": { "name": "Taghzout",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1244",
+    "fields": { "name": "Hamraia",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1245",
+    "fields": { "name": "Reguiba",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1246",
+    "fields": { "name": "Debila",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1247",
+    "fields": { "name": "Hassani Abdelkrim",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1248",
+    "fields": { "name": "Hassi Khalifa",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1249",
+    "fields": { "name": "Trifaoui",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1250",
+    "fields": { "name": "Taleb Larbi",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1251",
+    "fields": { "name": "Oued El Alenda",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1252",
+    "fields": { "name": "El-Oued",
+    "wilaya_id": "39"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1253",
+    "fields": { "name": "Khirane",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1254",
+    "fields": { "name": "Babar",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1255",
+    "fields": { "name": "El Mahmal",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1256",
+    "fields": { "name": "Ouled Rechache",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1257",
+    "fields": { "name": "Djellal",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1258",
+    "fields": { "name": "Yabous",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1259",
+    "fields": { "name": "Khenchela",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1260",
+    "fields": { "name": "Kais",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1261",
+    "fields": { "name": "Chelia",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1262",
+    "fields": { "name": "Remila",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1263",
+    "fields": { "name": "Taouzianat",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1264",
+    "fields": { "name": "Baghai",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1265",
+    "fields": { "name": "El Hamma",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1266",
+    "fields": { "name": "Ensigha",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1267",
+    "fields": { "name": "Tamza",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1268",
+    "fields": { "name": "Ain Touila",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1269",
+    "fields": { "name": "M'toussa",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1270",
+    "fields": { "name": "Bouhmama",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1271",
+    "fields": { "name": "El Oueldja",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1272",
+    "fields": { "name": "M'sara",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1273",
+    "fields": { "name": "Chechar",
+    "wilaya_id": "40"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1274",
+    "fields": { "name": "Souk Ahras",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1275",
+    "fields": { "name": "Ain Soltane",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1276",
+    "fields": { "name": "Sedrata",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1277",
+    "fields": { "name": "Hanencha",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1278",
+    "fields": { "name": "Machroha",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1279",
+    "fields": { "name": "Ain Zana",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1280",
+    "fields": { "name": "Ouled Driss",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1281",
+    "fields": { "name": "Terraguelt",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1282",
+    "fields": { "name": "Oum El Adhaim",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1283",
+    "fields": { "name": "Oued Kebrit",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1284",
+    "fields": { "name": "Tiffech",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1285",
+    "fields": { "name": "Ragouba",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1286",
+    "fields": { "name": "Drea",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1287",
+    "fields": { "name": "Taoura",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1288",
+    "fields": { "name": "Zaarouria",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1289",
+    "fields": { "name": "Haddada",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1290",
+    "fields": { "name": "Khedara",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1291",
+    "fields": { "name": "Ouled Moumen",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1292",
+    "fields": { "name": "Merahna",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1293",
+    "fields": { "name": "Ouillen",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1294",
+    "fields": { "name": "Sidi Fredj",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1295",
+    "fields": { "name": "Bir Bouhouche",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1296",
+    "fields": { "name": "Safel El Ouiden",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1297",
+    "fields": { "name": "Khemissa",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1298",
+    "fields": { "name": "M'daourouche",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1299",
+    "fields": { "name": "Zouabi",
+    "wilaya_id": "41"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1300",
+    "fields": { "name": "Hadjout",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1301",
+    "fields": { "name": "Merad",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1302",
+    "fields": { "name": "Menaceur",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1303",
+    "fields": { "name": "Aghbal",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1304",
+    "fields": { "name": "Nador",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1305",
+    "fields": { "name": "Sidi-Amar",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1306",
+    "fields": { "name": "Gouraya",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1307",
+    "fields": { "name": "Messelmoun",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1308",
+    "fields": { "name": "Cherchell",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1309",
+    "fields": { "name": "Hadjret Ennous",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1310",
+    "fields": { "name": "Sidi Ghiles",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1311",
+    "fields": { "name": "Damous",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1312",
+    "fields": { "name": "Larhat",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1313",
+    "fields": { "name": "Fouka",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1314",
+    "fields": { "name": "Ain Tagourait",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1315",
+    "fields": { "name": "Bou Haroun",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1316",
+    "fields": { "name": "Bou Ismail",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1317",
+    "fields": { "name": "Khemisti",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1318",
+    "fields": { "name": "Ahmer El Ain",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1319",
+    "fields": { "name": "Bourkika",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1320",
+    "fields": { "name": "Douaouda",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1321",
+    "fields": { "name": "Sidi Rached",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1322",
+    "fields": { "name": "Attatba",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1323",
+    "fields": { "name": "Chaiba",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1324",
+    "fields": { "name": "Kolea",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1325",
+    "fields": { "name": "Sidi Semiane",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1326",
+    "fields": { "name": "Tipaza",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1327",
+    "fields": { "name": "Beni Mileuk",
+    "wilaya_id": "42"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1328",
+    "fields": { "name": "El Mechira",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1329",
+    "fields": { "name": "El Ayadi Barbes",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1330",
+    "fields": { "name": "Ain Beida Harriche",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1331",
+    "fields": { "name": "Tassala Lematai",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1332",
+    "fields": { "name": "Terrai Bainen",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1333",
+    "fields": { "name": "Amira Arres",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1334",
+    "fields": { "name": "Tassadane Haddada",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1335",
+    "fields": { "name": "Minar Zarza",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1336",
+    "fields": { "name": "Sidi Merouane",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1337",
+    "fields": { "name": "Chigara",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1338",
+    "fields": { "name": "Hamala",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1339",
+    "fields": { "name": "Grarem Gouga",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1340",
+    "fields": { "name": "Tiberguent",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1341",
+    "fields": { "name": "Rouached",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1342",
+    "fields": { "name": "Derrahi Bousselah",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1343",
+    "fields": { "name": "Zeghaia",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1344",
+    "fields": { "name": "Oued Endja",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1345",
+    "fields": { "name": "Ahmed Rachedi",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1346",
+    "fields": { "name": "Tadjenanet",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1347",
+    "fields": { "name": "Ain Mellouk",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1348",
+    "fields": { "name": "Ouled Khalouf",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1349",
+    "fields": { "name": "Benyahia Abderrahmane",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1350",
+    "fields": { "name": "Teleghma",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1351",
+    "fields": { "name": "Oued Seguen",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1352",
+    "fields": { "name": "Oued Athmenia",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1353",
+    "fields": { "name": "Ain Tine",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1354",
+    "fields": { "name": "Chelghoum Laid",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1355",
+    "fields": { "name": "Yahia Beniguecha",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1356",
+    "fields": { "name": "Ferdjioua",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1357",
+    "fields": { "name": "Sidi Khelifa",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1358",
+    "fields": { "name": "Mila",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1359",
+    "fields": { "name": "Bouhatem",
+    "wilaya_id": "43"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1360",
+    "fields": { "name": "Khemis-Miliana",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1361",
+    "fields": { "name": "Sidi-Lakhdar",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1362",
+    "fields": { "name": "Ain-Benian",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1363",
+    "fields": { "name": "Ain-Torki",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1364",
+    "fields": { "name": "Hammam-Righa",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1365",
+    "fields": { "name": "Bourached",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1366",
+    "fields": { "name": "Hoceinia",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1367",
+    "fields": { "name": "Djelida",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1368",
+    "fields": { "name": "Arib",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1369",
+    "fields": { "name": "Djemaa Ouled Cheikh",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1370",
+    "fields": { "name": "El-Amra",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1371",
+    "fields": { "name": "El-Attaf",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1372",
+    "fields": { "name": "Tiberkanine",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1373",
+    "fields": { "name": "Ain-Bouyahia",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1374",
+    "fields": { "name": "El-Abadia",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1375",
+    "fields": { "name": "Tacheta Zegagha",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1376",
+    "fields": { "name": "Birbouche",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1377",
+    "fields": { "name": "Djendel",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1378",
+    "fields": { "name": "Ben Allal",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1379",
+    "fields": { "name": "Oued Chorfa",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1380",
+    "fields": { "name": "Boumedfaa",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1381",
+    "fields": { "name": "Ain-Lechiakh",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1382",
+    "fields": { "name": "Ain-Soltane",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1383",
+    "fields": { "name": "Oued Djemaa",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1384",
+    "fields": { "name": "El-Maine",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1385",
+    "fields": { "name": "Rouina",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1386",
+    "fields": { "name": "Zeddine",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1387",
+    "fields": { "name": "Bir-Ould-Khelifa",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1388",
+    "fields": { "name": "Bordj-Emir-Khaled",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1389",
+    "fields": { "name": "Tarik-Ibn-Ziad",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1390",
+    "fields": { "name": "Bathia",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1391",
+    "fields": { "name": "Belaas",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1392",
+    "fields": { "name": "Hassania",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1393",
+    "fields": { "name": "Ain-Defla",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1394",
+    "fields": { "name": "Miliana",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1395",
+    "fields": { "name": "Mekhatria",
+    "wilaya_id": "44"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1396",
+    "fields": { "name": "Tiout",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1397",
+    "fields": { "name": "Moghrar",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1398",
+    "fields": { "name": "Asla",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1399",
+    "fields": { "name": "Kasdir",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1400",
+    "fields": { "name": "Makmen Ben Amar",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1401",
+    "fields": { "name": "Ain Sefra",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1402",
+    "fields": { "name": "Mecheria",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1403",
+    "fields": { "name": "El Biodh",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1404",
+    "fields": { "name": "Ain Ben Khelil",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1405",
+    "fields": { "name": "Naama",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1406",
+    "fields": { "name": "Djenienne Bourezg",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1407",
+    "fields": { "name": "Sfissifa",
+    "wilaya_id": "45"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1408",
+    "fields": { "name": "Sidi Boumediene",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1409",
+    "fields": { "name": "Tamzoura",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1410",
+    "fields": { "name": "Chaabat El Ham",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1411",
+    "fields": { "name": "El Maleh",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1412",
+    "fields": { "name": "Ouled Kihal",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1413",
+    "fields": { "name": "Chentouf",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1414",
+    "fields": { "name": "Terga",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1415",
+    "fields": { "name": "Oued Sebbah",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1416",
+    "fields": { "name": "El Amria",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1417",
+    "fields": { "name": "Hassi El Ghella",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1418",
+    "fields": { "name": "Ouled Boudjemaa",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1419",
+    "fields": { "name": "Aghlal",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1420",
+    "fields": { "name": "Ain Kihal",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1421",
+    "fields": { "name": "Ain Tolba",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1422",
+    "fields": { "name": "Aoubellil",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1423",
+    "fields": { "name": "Beni Saf",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1424",
+    "fields": { "name": "Hassasna",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1425",
+    "fields": { "name": "Emir Abdelkader",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1426",
+    "fields": { "name": "Sidi Safi",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1427",
+    "fields": { "name": "Oulhaca El Gheraba",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1428",
+    "fields": { "name": "Sidi Ouriache",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1429",
+    "fields": { "name": "Ain El Arbaa",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1430",
+    "fields": { "name": "El Messaid",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1431",
+    "fields": { "name": "Oued Berkeche",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1432",
+    "fields": { "name": "Sidi Ben Adda",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1433",
+    "fields": { "name": "Ain Temouchent",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1434",
+    "fields": { "name": "Bouzedjar",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1435",
+    "fields": { "name": "Hammam Bou Hadjar",
+    "wilaya_id": "46"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1436",
+    "fields": { "name": "Dhayet Bendhahoua",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1437",
+    "fields": { "name": "Mansoura",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1438",
+    "fields": { "name": "El Atteuf",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1439",
+    "fields": { "name": "Bounoura",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1440",
+    "fields": { "name": "Zelfana",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1441",
+    "fields": { "name": "El Guerrara",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1442",
+    "fields": { "name": "Sebseb",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1443",
+    "fields": { "name": "Metlili",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1444",
+    "fields": { "name": "Berriane",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1445",
+    "fields": { "name": "Ghardaia",
+    "wilaya_id": "47"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1446",
+    "fields": { "name": "El-Guettar",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1447",
+    "fields": { "name": "Ouled Aiche",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1448",
+    "fields": { "name": "Beni Dergoun",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1449",
+    "fields": { "name": "Dar Ben Abdelah",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1450",
+    "fields": { "name": "Zemmoura",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1451",
+    "fields": { "name": "Djidiouia",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1452",
+    "fields": { "name": "Hamri",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1453",
+    "fields": { "name": "Belaassel Bouzagza",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1454",
+    "fields": { "name": "El-Matmar",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1455",
+    "fields": { "name": "Sidi Khettab",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1456",
+    "fields": { "name": "Sidi M'hamed Benaouda",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1457",
+    "fields": { "name": "Ain-Tarek",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1458",
+    "fields": { "name": "Had Echkalla",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1459",
+    "fields": { "name": "El Ouldja",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1460",
+    "fields": { "name": "Mazouna",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1461",
+    "fields": { "name": "Ain Rahma",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1462",
+    "fields": { "name": "Kalaa",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1463",
+    "fields": { "name": "Sidi Saada",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1464",
+    "fields": { "name": "Yellel",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1465",
+    "fields": { "name": "Souk El Had",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1466",
+    "fields": { "name": "Mendes",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1467",
+    "fields": { "name": "Oued Essalem",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1468",
+    "fields": { "name": "Sidi Lazreg",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1469",
+    "fields": { "name": "Ammi Moussa",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1470",
+    "fields": { "name": "Ouarizane",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1471",
+    "fields": { "name": "Merdja Sidi Abed",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1472",
+    "fields": { "name": "Ouled Sidi Mihoub",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1473",
+    "fields": { "name": "Bendaoud",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1474",
+    "fields": { "name": "Oued-Rhiou",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1475",
+    "fields": { "name": "El Hassi",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1476",
+    "fields": { "name": "Sidi M'hamed Benali",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1477",
+    "fields": { "name": "Mediouna",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1478",
+    "fields": { "name": "Beni Zentis",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1479",
+    "fields": { "name": "Oued El Djemaa",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1480",
+    "fields": { "name": "Lahlef",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1481",
+    "fields": { "name": "Relizane",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1482",
+    "fields": { "name": "El H'madna",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1483",
+    "fields": { "name": "Ramka",
+    "wilaya_id": "48"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1484",
+    "fields": { "name": "Tinerkouk",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1485",
+    "fields": { "name": "Timimoun",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1486",
+    "fields": { "name": "Ouled Said",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1487",
+    "fields": { "name": "Metarfa",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1488",
+    "fields": { "name": "Talmine",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1489",
+    "fields": { "name": "Ouled Aissa",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1490",
+    "fields": { "name": "Charouine",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1491",
+    "fields": { "name": "Aougrout",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1492",
+    "fields": { "name": "Deldoul",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1493",
+    "fields": { "name": "Ksar Kaddour",
+    "wilaya_id": "49"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1494",
+    "fields": { "name": "Timiaouine",
+    "wilaya_id": "50"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1495",
+    "fields": { "name": "Bordj Badji Mokhtar",
+    "wilaya_id": "50"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1496",
+    "fields": { "name": "Ras El Miad",
+    "wilaya_id": "51"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1497",
+    "fields": { "name": "Besbes",
+    "wilaya_id": "51"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1498",
+    "fields": { "name": "Sidi Khaled",
+    "wilaya_id": "51"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1499",
+    "fields": { "name": "Doucen",
+    "wilaya_id": "51"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1500",
+    "fields": { "name": "Chaiba",
+    "wilaya_id": "51"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1501",
+    "fields": { "name": "Ouled Djellal",
+    "wilaya_id": "51"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1502",
+    "fields": { "name": "Beni-Abbes",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1503",
+    "fields": { "name": "Tamtert",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1504",
+    "fields": { "name": "Igli",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1505",
+    "fields": { "name": "El Ouata",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1506",
+    "fields": { "name": "Ouled-Khodeir",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1507",
+    "fields": { "name": "Kerzaz",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1508",
+    "fields": { "name": "Timoudi",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1509",
+    "fields": { "name": "Ksabi",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1510",
+    "fields": { "name": "Beni-Ikhlef",
+    "wilaya_id": "52"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1511",
+    "fields": { "name": "Inghar",
+    "wilaya_id": "53"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1512",
+    "fields": { "name": "Ain Salah",
+    "wilaya_id": "53"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1513",
+    "fields": { "name": "Foggaret Ezzoua",
+    "wilaya_id": "53"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1514",
+    "fields": { "name": "Tin Zouatine",
+    "wilaya_id": "54"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1515",
+    "fields": { "name": "Ain Guezzam",
+    "wilaya_id": "54"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1516",
+    "fields": { "name": "Temacine",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1517",
+    "fields": { "name": "Sidi Slimane",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1518",
+    "fields": { "name": "Megarine",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1519",
+    "fields": { "name": "Nezla",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1520",
+    "fields": { "name": "Blidet Amor",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1521",
+    "fields": { "name": "Tebesbest",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1522",
+    "fields": { "name": "Touggourt",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1523",
+    "fields": { "name": "Taibet",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1524",
+    "fields": { "name": "El Alia",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1525",
+    "fields": { "name": "El-Hadjira",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1526",
+    "fields": { "name": "Benaceur",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1527",
+    "fields": { "name": "M'naguer",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1528",
+    "fields": { "name": "Zaouia El Abidia",
+    "wilaya_id": "55"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1529",
+    "fields": { "name": "Djanet",
+    "wilaya_id": "56"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1530",
+    "fields": { "name": "Bordj El Haouass",
+    "wilaya_id": "56"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1531",
+    "fields": { "name": "Oum Touyour",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1532",
+    "fields": { "name": "Sidi Amrane",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1533",
+    "fields": { "name": "M'rara",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1534",
+    "fields": { "name": "Djamaa",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1535",
+    "fields": { "name": "Tenedla",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1536",
+    "fields": { "name": "El-M'ghaier",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1537",
+    "fields": { "name": "Still",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1538",
+    "fields": { "name": "Sidi Khelil",
+    "wilaya_id": "57"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1539",
+    "fields": { "name": "El Meniaa",
+    "wilaya_id": "58"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1540",
+    "fields": { "name": "Hassi Gara",
+    "wilaya_id": "58"
+}},
+{
+    "model": "tools.Commune",
+    "pk": "1541",
+    "fields": { "name": "Hassi Fehal",
+    "wilaya_id": "58"
+}}]

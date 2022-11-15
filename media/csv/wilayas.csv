@@ -1,0 +1,59 @@
+model,pk,name
+tools.Wilaya,1,Adrar 
+tools.Wilaya,2, Chlef
+tools.Wilaya,3, Laghouat
+tools.Wilaya,4,Oum El Bouaghi
+tools.Wilaya,5, Batna
+tools.Wilaya,6, Béjaïa
+tools.Wilaya,7, Biskra 
+tools.Wilaya,8, Béchar 
+tools.Wilaya,9, Blida
+tools.Wilaya,10, Bouira
+tools.Wilaya,11, Tamanrasset 
+tools.Wilaya,12, Tébessa
+tools.Wilaya,13, Tlemcen
+tools.Wilaya,14, Tiaret
+tools.Wilaya,15, Tizi Ouzou
+tools.Wilaya,16,Alger
+tools.Wilaya,17, Djelfa
+tools.Wilaya,18, Jijel
+tools.Wilaya,19, Sétif
+tools.Wilaya,20, Saïda
+tools.Wilaya,21, Skikda
+tools.Wilaya,22, Sidi Bel Abbès
+tools.Wilaya,23,Annaba
+tools.Wilaya,24, Guelma
+tools.Wilaya,25, Constantine
+tools.Wilaya,26, Médéa
+tools.Wilaya,27, Mostaganem
+tools.Wilaya,28, M'Sila
+tools.Wilaya,29, Mascara
+tools.Wilaya,30,Ouargla 
+tools.Wilaya,31,Oran
+tools.Wilaya,32,El Bayadh
+tools.Wilaya,33,Illizi 
+tools.Wilaya,34, Bordj Bou Arreridj
+tools.Wilaya,35, Boumerdès
+tools.Wilaya,36,El Tarf
+tools.Wilaya,37, Tindouf
+tools.Wilaya,38, Tissemsilt
+tools.Wilaya,39,El Oued 
+tools.Wilaya,40, Khenchela
+tools.Wilaya,41, Souk Ahras
+tools.Wilaya,42, Tipaza
+tools.Wilaya,43, Mila
+tools.Wilaya,44,Aïn Defla
+tools.Wilaya,45, Naâma
+tools.Wilaya,46,Aïn Témouchent
+tools.Wilaya,47, Ghardaïa 
+tools.Wilaya,48, Relizane
+tools.Wilaya,49, Timimoun  
+tools.Wilaya,50, Bordj Badji Mokhtar  
+tools.Wilaya,51,Ouled Djellal  
+tools.Wilaya,52, Béni Abbès  
+tools.Wilaya,53,In Salah  
+tools.Wilaya,54,In Guezzam  
+tools.Wilaya,55, Touggourt  
+tools.Wilaya,56, Djanet  
+tools.Wilaya,57,El M'Ghair  
+tools.Wilaya,58,El Meniaa  
